@@ -1,0 +1,2 @@
+# Immutable update metadata must remain byte-for-byte identical.
+docs/** -text
