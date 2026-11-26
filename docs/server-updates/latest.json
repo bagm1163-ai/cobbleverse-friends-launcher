@@ -1419,7 +1419,7 @@
       "path": "config/more_cobblemon_tweaks.json",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 0,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.bin"
+      "url": "https://raw.githubusercontent.com/bagm1163-ai/cobbleverse-friends-launcher/main/docs/empty.bin"
     },
     {
       "path": "config/moreculling.toml",
@@ -2787,7 +2787,7 @@
       "path": "config/worldedit/.archive-unpack/5f7cd289/.unpack_finished",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 0,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.bin"
+      "url": "https://raw.githubusercontent.com/bagm1163-ai/cobbleverse-friends-launcher/main/docs/empty.bin"
     },
     {
       "path": "config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
@@ -3765,7 +3765,7 @@
       "path": "config/xaeropatreon.txt",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 0,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.bin"
+      "url": "https://raw.githubusercontent.com/bagm1163-ai/cobbleverse-friends-launcher/main/docs/empty.bin"
     },
     {
       "path": "config/yacl.json5",

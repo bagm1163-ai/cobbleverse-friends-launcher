@@ -1767,7 +1767,7 @@ metafile = true
 
 [[files]]
 file = "config/more_cobblemon_tweaks.json.pw.toml"
-hash = "2a0eac0495986e09f1a40c081089a9f4e8566b688c90b901ccfe6e5a915edb2f"
+hash = "7f8ae25c23c11861d772f4f84d8d174881cbb28dc939b7b3c871ae2e0e4f8c25"
 metafile = true
 
 [[files]]
@@ -2047,7 +2047,7 @@ metafile = true
 
 [[files]]
 file = "config/xaeropatreon.txt.pw.toml"
-hash = "f21326c0650a8523530a49408bef19938b515d1373973270269e535500badce3"
+hash = "5fe4e8b792290dc341aaabf1ebcbd2a2bca95de8b4bd5675ad25e0e862aa679c"
 metafile = true
 
 [[files]]
