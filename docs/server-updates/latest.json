@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "stable",
   "server_jar": "fabric-server-mc.1.21.1-loader.0.18.4-launcher.1.1.2.jar",
-  "version": "01908fa02883a4c4",
+  "version": "16c4c4c2d229d924",
   "published_at": "2026-11-25T18:52:06.306349+00:00",
   "managed_files": [
     {
@@ -4513,9 +4513,9 @@
     },
     {
       "path": "mods/cobbleverse-home-prompt-1.0.0.jar",
-      "sha256": "33f51879dd62bba09caabc5d93a8f320291e6ad9043328b4a7a605623197f84f",
-      "size": 20509,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/33f51879dd62bba09caabc5d93a8f320291e6ad9043328b4a7a605623197f84f.bin"
+      "sha256": "7edf5b1b65662c4de62cf5de2c9c5926af239d4e0647d6017ace108b8d31c8ce",
+      "size": 32581,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-home-backpack/7edf5b1b65662c4de62cf5de2c9c5926af239d4e0647d6017ace108b8d31c8ce.bin"
     },
     {
       "path": "mods/cobbleverse-home-share-fix-1.1.0.jar",
@@ -4567,9 +4567,9 @@
     },
     {
       "path": "mods/cobbleverse-shop-sellall-1.1.5.jar",
-      "sha256": "74833da74dbf2fe497ca4a8b0e96fe541b622048e5f7cf89dc38b98ebfffee44",
-      "size": 17752,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/74833da74dbf2fe497ca4a8b0e96fe541b622048e5f7cf89dc38b98ebfffee44.bin"
+      "sha256": "6db918a1228b52dd06b524e089b623e80aebf10d427f973806f8ed044af7ed73",
+      "size": 31351,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-home-backpack/6db918a1228b52dd06b524e089b623e80aebf10d427f973806f8ed044af7ed73.bin"
     },
     {
       "path": "mods/cobbleverse-shutdown-scheduler-1.0.0.jar",
@@ -5316,5 +5316,5 @@
       "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/81f14a0ffa380f28b2cbd94b0be7ed78fe113803b93db4faad55241cb81b22c0.bin"
     }
   ],
-  "generated_utc": "2026-11-26T20:15:32.878081+00:00"
+  "generated_utc": "2026-11-26T20:53:41.997925+00:00"
 }
