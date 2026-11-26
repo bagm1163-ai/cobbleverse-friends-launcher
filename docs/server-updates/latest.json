@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "stable",
   "server_jar": "fabric-server-mc.1.21.1-loader.0.18.4-launcher.1.1.2.jar",
-  "version": "092b7a37d70cbc05",
+  "version": "09681528f62c1d87",
   "published_at": "2026-11-25T18:52:06.306349+00:00",
   "managed_files": [
     {
@@ -1741,9 +1741,9 @@
     },
     {
       "path": "config/skiesshop/shops/cv_crop_produce.json",
-      "sha256": "5e07bcfdf6ca7661cc5ac65c0c99f00b305ed19af25bf28667e305e623d94a54",
-      "size": 22662,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5e07bcfdf6ca7661cc5ac65c0c99f00b305ed19af25bf28667e305e623d94a54.bin"
+      "sha256": "362f338693b31a68aee5926e7e83bc08e436624f2843168c12f71814f4e785f5",
+      "size": 20140,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-ai-shop/362f338693b31a68aee5926e7e83bc08e436624f2843168c12f71814f4e785f5.bin"
     },
     {
       "path": "config/skiesshop/shops/cv_crop_seeds.json",
@@ -2569,9 +2569,9 @@
     },
     {
       "path": "config/skiesshop/shops/life_farm.json",
-      "sha256": "64a2e9150808b8e4da14375912e5b9413c19d44ae73d223d3a23b471b9f76002",
-      "size": 7719,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/64a2e9150808b8e4da14375912e5b9413c19d44ae73d223d3a23b471b9f76002.bin"
+      "sha256": "376b2e695394c0130e264829edfd7beff21419d6049ea9b02f1058ad95de2f2e",
+      "size": 8374,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-ai-shop/376b2e695394c0130e264829edfd7beff21419d6049ea9b02f1058ad95de2f2e.bin"
     },
     {
       "path": "config/skiesshop/shops/life_fishing.json",
@@ -2605,9 +2605,9 @@
     },
     {
       "path": "config/skiesshop/shops/life_ores.json",
-      "sha256": "b4cee5f394771b4131eec5c94d7a84495fd8fa8440a967c2978eac916737d1fc",
-      "size": 9235,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b4cee5f394771b4131eec5c94d7a84495fd8fa8440a967c2978eac916737d1fc.bin"
+      "sha256": "ba91f9e836be3ac1442d01e9af5b714c9583894876b761b9aab2a325f62a6dfa",
+      "size": 9890,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-ai-shop/ba91f9e836be3ac1442d01e9af5b714c9583894876b761b9aab2a325f62a6dfa.bin"
     },
     {
       "path": "config/skiesshop/shops/life_ranch.json",
@@ -4477,9 +4477,9 @@
     },
     {
       "path": "mods/cobbleverse-repeat-battle-0.1.1.jar",
-      "sha256": "99850e135efc6080a93291329462c367581fd32e17ab143a0642635d8cc276ec",
-      "size": 48684,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/99850e135efc6080a93291329462c367581fd32e17ab143a0642635d8cc276ec.bin"
+      "sha256": "f83dbffe458548d437b6eba50726dc372caae7130da85b798f0e859e9a852562",
+      "size": 70604,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-ai-shop/f83dbffe458548d437b6eba50726dc372caae7130da85b798f0e859e9a852562.bin"
     },
     {
       "path": "mods/cobbleverse-server-settings-preserver-1.0.0.jar",
@@ -5203,9 +5203,9 @@
     },
     {
       "path": "world/datapacks/cv_repeat_battle.zip",
-      "sha256": "cb112dc66d206c0161c363a1f416b90977faa846534f54b5dc02f5cc469267d2",
-      "size": 182540,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/cb112dc66d206c0161c363a1f416b90977faa846534f54b5dc02f5cc469267d2.bin"
+      "sha256": "903482e0b8056f86100c46c8b5ec054c85c9739a02b4f6cc0f96409e9107504a",
+      "size": 184136,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-ai-shop/903482e0b8056f86100c46c8b5ec054c85c9739a02b4f6cc0f96409e9107504a.bin"
     },
     {
       "path": "world/datapacks/cv_stadium_dimension.zip",
@@ -5220,5 +5220,5 @@
       "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/81f14a0ffa380f28b2cbd94b0be7ed78fe113803b93db4faad55241cb81b22c0.bin"
     }
   ],
-  "generated_utc": "2026-11-26T01:36:52.798590+00:00"
+  "generated_utc": "2026-11-26T16:11:46.187709+00:00"
 }
