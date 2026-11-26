@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "stable",
   "server_jar": "fabric-server-mc.1.21.1-loader.0.18.4-launcher.1.1.2.jar",
-  "version": "a8ca9738084f3382",
+  "version": "00f48161d03c0603",
   "published_at": "2026-11-25T18:52:06.306349+00:00",
   "managed_files": [
     {
@@ -5209,9 +5209,9 @@
     },
     {
       "path": "world/datapacks/cv_repeat_battle.zip",
-      "sha256": "903482e0b8056f86100c46c8b5ec054c85c9739a02b4f6cc0f96409e9107504a",
-      "size": 184136,
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-ai-shop/903482e0b8056f86100c46c8b5ec054c85c9739a02b4f6cc0f96409e9107504a.bin"
+      "sha256": "2d2ac6cce182eae83e8d93fb50a8994caefdb597351c37770abf735d800db93e",
+      "size": 184249,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-training-items/2d2ac6cce182eae83e8d93fb50a8994caefdb597351c37770abf735d800db93e.bin"
     },
     {
       "path": "world/datapacks/cv_stadium_dimension.zip",
@@ -5226,5 +5226,5 @@
       "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/81f14a0ffa380f28b2cbd94b0be7ed78fe113803b93db4faad55241cb81b22c0.bin"
     }
   ],
-  "generated_utc": "2026-11-26T17:07:40.401794+00:00"
+  "generated_utc": "2026-11-26T17:47:59.353008+00:00"
 }
