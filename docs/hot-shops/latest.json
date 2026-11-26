@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "hot-shops",
-  "version": "b95fcd7bb6d1c99f",
-  "generated_utc": "2026-11-26T16:11:46.511940+00:00",
+  "version": "7dce29836ba27b14",
+  "generated_utc": "2026-11-26T20:15:32.878081+00:00",
   "reload_command": "shops reload",
   "files": [
     {
@@ -781,9 +781,9 @@
     },
     {
       "path": "shops/cvshop_rare_stock.json",
-      "size": 10143,
-      "sha256": "905b6639494d8fa79a15410b8f92546b4a1a2a2ca545a35a3ae4e0257fd229d0",
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/905b6639494d8fa79a15410b8f92546b4a1a2a2ca545a35a3ae4e0257fd229d0.bin"
+      "sha256": "ae9fd6865130876734b2ffb0143de1f954c778e5a756f60e91162980f5289301",
+      "size": 9973,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/ae9fd6865130876734b2ffb0143de1f954c778e5a756f60e91162980f5289301.bin"
     },
     {
       "path": "shops/cvshop_relic.json",
@@ -858,40 +858,118 @@
       "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b8a6e247d73bb02985af33e08c745935a30b89a98c8a3bebdc472cfbef266bf0.bin"
     },
     {
+      "path": "shops/life_build_accents.json",
+      "sha256": "ae854c246d380dabe88cd65a85f3f7e1948502662e14b9e8c43a921fed9ec2a8",
+      "size": 11291,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/ae854c246d380dabe88cd65a85f3f7e1948502662e14b9e8c43a921fed9ec2a8.bin"
+    },
+    {
+      "path": "shops/life_build_carpet.json",
+      "sha256": "5c6edbd75bedcc54101778900544470f0b81df356d7f1cadd792ad453dbb68c5",
+      "size": 5203,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/5c6edbd75bedcc54101778900544470f0b81df356d7f1cadd792ad453dbb68c5.bin"
+    },
+    {
       "path": "shops/life_build_colors.json",
-      "size": 22680,
-      "sha256": "2c77fefe6cb6d75518caca088d8c86c76ae4c64a2d97d85178567d71229a18ef",
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2c77fefe6cb6d75518caca088d8c86c76ae4c64a2d97d85178567d71229a18ef.bin"
+      "sha256": "dd5b50d214fcb6d09dc53039fbc74ace0a88d13b75043f55a333f4db0d3a4a5e",
+      "size": 5139,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/dd5b50d214fcb6d09dc53039fbc74ace0a88d13b75043f55a333f4db0d3a4a5e.bin"
+    },
+    {
+      "path": "shops/life_build_concrete.json",
+      "sha256": "740fada6b7173fde1c66b5724c885538d7efd18a86c3cfed3d308d8d3f8eeb5c",
+      "size": 10201,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/740fada6b7173fde1c66b5724c885538d7efd18a86c3cfed3d308d8d3f8eeb5c.bin"
+    },
+    {
+      "path": "shops/life_build_copper.json",
+      "sha256": "e195c14ce38486b18a10256b5adeb1cf7bc66b7eda1bb5b5b9b563d2bcdeca69",
+      "size": 23203,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/e195c14ce38486b18a10256b5adeb1cf7bc66b7eda1bb5b5b9b563d2bcdeca69.bin"
     },
     {
       "path": "shops/life_build_details.json",
-      "size": 6334,
-      "sha256": "ed909493eff2b8a126550902ff8c238b0a439a46867266a48cedac9dacfb0404",
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ed909493eff2b8a126550902ff8c238b0a439a46867266a48cedac9dacfb0404.bin"
+      "sha256": "675a0b05184f33903acbb06fd1137f60a9b8ca51327c3e00b5a197fb6057728c",
+      "size": 21889,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/675a0b05184f33903acbb06fd1137f60a9b8ca51327c3e00b5a197fb6057728c.bin"
+    },
+    {
+      "path": "shops/life_build_doors.json",
+      "sha256": "a66962534fd5eab565c51c53c37e38cfcfe01631301f45ab782c92527d913ac1",
+      "size": 10807,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/a66962534fd5eab565c51c53c37e38cfcfe01631301f45ab782c92527d913ac1.bin"
+    },
+    {
+      "path": "shops/life_build_glass.json",
+      "sha256": "891ee3383362a4cac585260e8b4529759a7abd8e7d8b24a18f80fee76d041f25",
+      "size": 11300,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/891ee3383362a4cac585260e8b4529759a7abd8e7d8b24a18f80fee76d041f25.bin"
+    },
+    {
+      "path": "shops/life_build_light.json",
+      "sha256": "23817edd8385a1209407561a06a4fd683dd4f27ff3102aacd4b25266133be4b2",
+      "size": 8919,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/23817edd8385a1209407561a06a4fd683dd4f27ff3102aacd4b25266133be4b2.bin"
+    },
+    {
+      "path": "shops/life_build_masonry.json",
+      "sha256": "c7c1512d8f6b6f5568a310e093ce391b2e9351935cca27c2e46ebac4b153623e",
+      "size": 22362,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/c7c1512d8f6b6f5568a310e093ce391b2e9351935cca27c2e46ebac4b153623e.bin"
     },
     {
       "path": "shops/life_build_nature.json",
-      "size": 7482,
-      "sha256": "488728911a9728a1acbcbf00d3598b66f6d262d5b111595f5c22d2c7fc8eed6e",
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/488728911a9728a1acbcbf00d3598b66f6d262d5b111595f5c22d2c7fc8eed6e.bin"
+      "sha256": "0e3202f6b55aeff21ea6e57170523d7dedc3f28087974cc24616ac11b34aa7b6",
+      "size": 10548,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/0e3202f6b55aeff21ea6e57170523d7dedc3f28087974cc24616ac11b34aa7b6.bin"
+    },
+    {
+      "path": "shops/life_build_nether_end.json",
+      "sha256": "e715c506541d25dcc5be210e1543ade883f8ccae090ddee258052a8c5f0f9c7c",
+      "size": 10760,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/e715c506541d25dcc5be210e1543ade883f8ccae090ddee258052a8c5f0f9c7c.bin"
+    },
+    {
+      "path": "shops/life_build_plants.json",
+      "sha256": "8aff8ab3c815c513c5e7925878f970064b203ccf3d6ed211b9a9c2b1b1360708",
+      "size": 31997,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/8aff8ab3c815c513c5e7925878f970064b203ccf3d6ed211b9a9c2b1b1360708.bin"
+    },
+    {
+      "path": "shops/life_build_sand_quartz.json",
+      "sha256": "66f6be14adff3d8e188b23e609422fe8c224c123c5f882232a95715d7b15a694",
+      "size": 9256,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/66f6be14adff3d8e188b23e609422fe8c224c123c5f882232a95715d7b15a694.bin"
     },
     {
       "path": "shops/life_build_stone.json",
-      "size": 11875,
-      "sha256": "7751f11692004945d6de62a43696f26595e1a1463998d19b10ab1b9c2c4a728b",
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7751f11692004945d6de62a43696f26595e1a1463998d19b10ab1b9c2c4a728b.bin"
+      "sha256": "a26f8b1c17c6147e7a9e6b78bc286d97ee5b28f74a77f1175c0bdace04a62cad",
+      "size": 10621,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/a26f8b1c17c6147e7a9e6b78bc286d97ee5b28f74a77f1175c0bdace04a62cad.bin"
+    },
+    {
+      "path": "shops/life_build_terracotta.json",
+      "sha256": "f6e21262777cd6a426079513dff7abc6d09bf00ef918df78ed539536711cf429",
+      "size": 10614,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/f6e21262777cd6a426079513dff7abc6d09bf00ef918df78ed539536711cf429.bin"
     },
     {
       "path": "shops/life_build_wood.json",
-      "size": 9678,
-      "sha256": "fdbb4d2fd5dfe29ec56f7f5f38fbc147c71f38ea7f93d9b34080669cc44d985d",
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fdbb4d2fd5dfe29ec56f7f5f38fbc147c71f38ea7f93d9b34080669cc44d985d.bin"
+      "sha256": "4deb09627ff14790c9817dbf1b3d81777916259dbd68f589e75f76e5ce760260",
+      "size": 16914,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/4deb09627ff14790c9817dbf1b3d81777916259dbd68f589e75f76e5ce760260.bin"
+    },
+    {
+      "path": "shops/life_build_wood_shapes.json",
+      "sha256": "913fa0be3bf672fe5f025468e92daa3d6519225a8d26213bf8fad896cfb89fa6",
+      "size": 10719,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/913fa0be3bf672fe5f025468e92daa3d6519225a8d26213bf8fad896cfb89fa6.bin"
     },
     {
       "path": "shops/life_building.json",
-      "size": 2381,
-      "sha256": "bc471b1858d00419af1e56e51b4270ac2a69d0766e6d857d27187e0d66aff09c",
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bc471b1858d00419af1e56e51b4270ac2a69d0766e6d857d27187e0d66aff09c.bin"
+      "sha256": "d029d8ae16e87b1fbc07585f607a63342fb65aadadcf8fcb771638a1aad17337",
+      "size": 6609,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-building-admin/d029d8ae16e87b1fbc07585f607a63342fb65aadadcf8fcb771638a1aad17337.bin"
     },
     {
       "path": "shops/life_convenience.json",
