@@ -1,0 +1,8 @@
+name = "soundsbegone.json"
+filename = "soundsbegone.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6f3abcd92b333d4eb1f9698f34c5fa77e0219c3fbb65bc837a5a89de88387ec7.bin"
+hash-format = "sha256"
+hash = "6f3abcd92b333d4eb1f9698f34c5fa77e0219c3fbb65bc837a5a89de88387ec7"

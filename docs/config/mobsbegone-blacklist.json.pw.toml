@@ -1,0 +1,8 @@
+name = "mobsbegone-blacklist.json"
+filename = "mobsbegone-blacklist.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/601c47d93c883a13758a8413ed8f95f8a97dc3350b893bbc322eb3794675769f.bin"
+hash-format = "sha256"
+hash = "601c47d93c883a13758a8413ed8f95f8a97dc3350b893bbc322eb3794675769f"

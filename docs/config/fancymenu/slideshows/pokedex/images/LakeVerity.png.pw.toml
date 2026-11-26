@@ -1,0 +1,8 @@
+name = "LakeVerity.png"
+filename = "LakeVerity.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/24ba6a94d14220bb29b450577195ada15fa8c94b069d7ea8c970d63553dd5df5.bin"
+hash-format = "sha256"
+hash = "24ba6a94d14220bb29b450577195ada15fa8c94b069d7ea8c970d63553dd5df5"

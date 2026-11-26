@@ -1,0 +1,8 @@
+name = "Icon Fresh 0.4.zip"
+filename = "Icon Fresh 0.4.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6a77950346e51262adfa266a7d52acb0b35798528f4ccf73f518d1c69fc729d8.bin"
+hash-format = "sha256"
+hash = "6a77950346e51262adfa266a7d52acb0b35798528f4ccf73f518d1c69fc729d8"

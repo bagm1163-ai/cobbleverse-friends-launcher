@@ -1,0 +1,8 @@
+name = "waystones-fabric-1.21.1-21.1.37.jar"
+filename = "waystones-fabric-1.21.1-21.1.37.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8450/86/waystones-fabric-1.21.1-21.1.37.jar"
+hash-format = "sha256"
+hash = "1cef833ec178bc6ea92a221b8a75bc6637e9e4d38d23f3963610fd772f1b2f95"

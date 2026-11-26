@@ -1,0 +1,8 @@
+name = "fabric_simple_generator-1.0.1-1.21.1.jar"
+filename = "fabric_simple_generator-1.0.1-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7a19675d09b86e9635df63edece5b9eea868202b227d0d27cbba062041b22a67.bin"
+hash-format = "sha256"
+hash = "7a19675d09b86e9635df63edece5b9eea868202b227d0d27cbba062041b22a67"

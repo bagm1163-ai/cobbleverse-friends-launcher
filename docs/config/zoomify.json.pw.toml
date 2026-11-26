@@ -1,0 +1,8 @@
+name = "zoomify.json"
+filename = "zoomify.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/18ad037a0087eea89db518710cc69fa750dcd2122c52219c1dd4182cb55e0a42.bin"
+hash-format = "sha256"
+hash = "18ad037a0087eea89db518710cc69fa750dcd2122c52219c1dd4182cb55e0a42"

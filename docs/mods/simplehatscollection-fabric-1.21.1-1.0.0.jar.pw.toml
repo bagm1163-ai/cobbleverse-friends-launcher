@@ -1,0 +1,8 @@
+name = "simplehatscollection-fabric-1.21.1-1.0.0.jar"
+filename = "simplehatscollection-fabric-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8374/829/simplehatscollection-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "4e785a8a4f4f48763e97d4be919ed71137da4ce67c432625ef77fb8cc0a0c294"

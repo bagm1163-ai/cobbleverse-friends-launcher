@@ -1,0 +1,8 @@
+name = "COBBLEVERSE-RCT-DP-v20.zip"
+filename = "COBBLEVERSE-RCT-DP-v20.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/54f0e8c1b061554bfba3de86dbcd9a6b39da4e8293e2b5141faa4254dc7ae400.bin"
+hash-format = "sha256"
+hash = "54f0e8c1b061554bfba3de86dbcd9a6b39da4e8293e2b5141faa4254dc7ae400"

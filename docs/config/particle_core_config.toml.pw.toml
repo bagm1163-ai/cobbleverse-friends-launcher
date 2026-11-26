@@ -1,0 +1,8 @@
+name = "particle_core_config.toml"
+filename = "particle_core_config.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1c71524c0a4d4e955be85796e0d564d1a39d2bf4362d9b05d37d6f6dfc2490a7.bin"
+hash-format = "sha256"
+hash = "1c71524c0a4d4e955be85796e0d564d1a39d2bf4362d9b05d37d6f6dfc2490a7"

@@ -1,0 +1,8 @@
+name = "neruina.json5"
+filename = "neruina.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bfa343775801d4708d39e86b5fa4893a18185f190f2799a8b6ad828e96027073.bin"
+hash-format = "sha256"
+hash = "bfa343775801d4708d39e86b5fa4893a18185f190f2799a8b6ad828e96027073"

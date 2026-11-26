@@ -1,0 +1,8 @@
+name = "notenoughanimations.json"
+filename = "notenoughanimations.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/89c63e5e8c982cb83b8c158b21a6f6097d1980daac7620fdec242a8635ba19c7.bin"
+hash-format = "sha256"
+hash = "89c63e5e8c982cb83b8c158b21a6f6097d1980daac7620fdec242a8635ba19c7"

@@ -1,0 +1,8 @@
+name = "Terralith-DP.zip"
+filename = "Terralith-DP.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164.bin"
+hash-format = "sha256"
+hash = "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"

@@ -1,0 +1,8 @@
+name = "modernfix-mixins.properties"
+filename = "modernfix-mixins.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c03abaae9129778eea5bb05201ffb5ecd8aaeae8d1eb16255d97caba0b96ca87.bin"
+hash-format = "sha256"
+hash = "c03abaae9129778eea5bb05201ffb5ecd8aaeae8d1eb16255d97caba0b96ca87"

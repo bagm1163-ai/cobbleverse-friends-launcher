@@ -1,0 +1,8 @@
+name = "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+filename = "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7.bin"
+hash-format = "sha256"
+hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"

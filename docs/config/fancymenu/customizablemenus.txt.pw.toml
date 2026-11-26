@@ -1,0 +1,8 @@
+name = "customizablemenus.txt"
+filename = "customizablemenus.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/219214f6c36cf1f8fab920a734300788779900da90eaafe97f6ec502823cea49.bin"
+hash-format = "sha256"
+hash = "219214f6c36cf1f8fab920a734300788779900da90eaafe97f6ec502823cea49"

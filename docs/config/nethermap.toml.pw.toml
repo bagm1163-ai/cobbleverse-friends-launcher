@@ -1,0 +1,8 @@
+name = "nethermap.toml"
+filename = "nethermap.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b07e929a45bed93594b8134b856c3b791f8ba678a8c698fb52a54df17ea488b9.bin"
+hash-format = "sha256"
+hash = "b07e929a45bed93594b8134b856c3b791f8ba678a8c698fb52a54df17ea488b9"

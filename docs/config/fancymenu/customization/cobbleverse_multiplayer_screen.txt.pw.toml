@@ -1,0 +1,8 @@
+name = "cobbleverse_multiplayer_screen.txt"
+filename = "cobbleverse_multiplayer_screen.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/582fee26c393284331c1c7fb13325c555e8ab5ca9dc680c4027ddfb2caf9e77a.bin"
+hash-format = "sha256"
+hash = "582fee26c393284331c1c7fb13325c555e8ab5ca9dc680c4027ddfb2caf9e77a"

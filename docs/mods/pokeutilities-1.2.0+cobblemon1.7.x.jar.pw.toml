@@ -1,0 +1,8 @@
+name = "pokeutilities-1.2.0+cobblemon1.7.x.jar"
+filename = "pokeutilities-1.2.0+cobblemon1.7.x.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a544b951de486d90a986fd3dfd47606bf68343aac3362b52100fcfb096812b95.bin"
+hash-format = "sha256"
+hash = "a544b951de486d90a986fd3dfd47606bf68343aac3362b52100fcfb096812b95"

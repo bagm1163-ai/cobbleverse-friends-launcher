@@ -1,0 +1,8 @@
+name = "advancementplaques.toml"
+filename = "advancementplaques.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c758366b2b0bcf6d5d175974eaf2df078778ccdbfedb628d4c87eca218788ec7.bin"
+hash-format = "sha256"
+hash = "c758366b2b0bcf6d5d175974eaf2df078778ccdbfedb628d4c87eca218788ec7"

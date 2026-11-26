@@ -1,0 +1,8 @@
+name = "cobbleverse_resourcepack_selection.txt"
+filename = "cobbleverse_resourcepack_selection.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/05f06167c786a2a0a14f8d9cea0a92c9ba5b360a44cf3b8465dfcb20f8fb0e8a.bin"
+hash-format = "sha256"
+hash = "05f06167c786a2a0a14f8d9cea0a92c9ba5b360a44cf3b8465dfcb20f8fb0e8a"

@@ -1,0 +1,8 @@
+name = "JohtoLeague.png"
+filename = "JohtoLeague.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b36f8ca18ba7c26afa4b4aceda0921594cacda4807c7e15247381cd744ffab03.bin"
+hash-format = "sha256"
+hash = "b36f8ca18ba7c26afa4b4aceda0921594cacda4807c7e15247381cd744ffab03"

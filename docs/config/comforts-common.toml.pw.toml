@@ -1,0 +1,8 @@
+name = "comforts-common.toml"
+filename = "comforts-common.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2.bin"
+hash-format = "sha256"
+hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"

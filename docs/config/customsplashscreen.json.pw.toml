@@ -1,0 +1,8 @@
+name = "customsplashscreen.json"
+filename = "customsplashscreen.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5b6ae5d099b0d9d1ef2452cd22acd6061a5910120b94595b619898c0b9aed6c5.bin"
+hash-format = "sha256"
+hash = "5b6ae5d099b0d9d1ef2452cd22acd6061a5910120b94595b619898c0b9aed6c5"

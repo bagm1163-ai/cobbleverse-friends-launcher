@@ -1,0 +1,8 @@
+name = "accessories-fabric-1.1.0-beta.53+1.21.1.jar"
+filename = "accessories-fabric-1.1.0-beta.53+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7583/323/accessories-fabric-1.1.0-beta.53%2b1.21.1.jar"
+hash-format = "sha256"
+hash = "51e6f6d52cb2523199ad36e5bc04802230f86904c35ac3dbf36e59c86b2c30d1"

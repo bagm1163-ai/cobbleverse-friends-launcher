@@ -1,0 +1,8 @@
+name = "sodium-options.json"
+filename = "sodium-options.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/65076783919b2d144e1a991b9448e7a79132fc126c950bedb6c6b1a873056540.bin"
+hash-format = "sha256"
+hash = "65076783919b2d144e1a991b9448e7a79132fc126c950bedb6c6b1a873056540"

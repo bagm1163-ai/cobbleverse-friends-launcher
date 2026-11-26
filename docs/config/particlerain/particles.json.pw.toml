@@ -1,0 +1,8 @@
+name = "particles.json"
+filename = "particles.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0c7fc392fa7ccdbb4ce855de3d4b55bc37f27dfdd6d2191228bbb1dc936ae14a.bin"
+hash-format = "sha256"
+hash = "0c7fc392fa7ccdbb4ce855de3d4b55bc37f27dfdd6d2191228bbb1dc936ae14a"

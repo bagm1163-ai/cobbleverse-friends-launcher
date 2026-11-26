@@ -1,0 +1,8 @@
+name = "progressbar.png"
+filename = "progressbar.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7.bin"
+hash-format = "sha256"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"

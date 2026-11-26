@@ -1,0 +1,8 @@
+name = "FarmersDelight-1.21.1-3.2.0+refabricated.jar"
+filename = "FarmersDelight-1.21.1-3.2.0+refabricated.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c51ca5bdfe0bf14445865b6c88a8394ba801df0ef9426499d23c319c6658a53f.bin"
+hash-format = "sha256"
+hash = "c51ca5bdfe0bf14445865b6c88a8394ba801df0ef9426499d23c319c6658a53f"

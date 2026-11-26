@@ -1,0 +1,8 @@
+name = "COBBLEVERSE - Shaders.txt"
+filename = "COBBLEVERSE - Shaders.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/544ecdf1f515333c0de0cea5607ea06da915fe4293424a991d635cddfaf60b67.bin"
+hash-format = "sha256"
+hash = "544ecdf1f515333c0de0cea5607ea06da915fe4293424a991d635cddfaf60b67"

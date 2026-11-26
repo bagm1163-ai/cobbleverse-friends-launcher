@@ -1,0 +1,8 @@
+name = "FlyingTaxi.png"
+filename = "FlyingTaxi.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d11b3cdcdad8d6743e3fbe8528ff9fd2f71f055fc40d0d47a8d9e37b7c1ca993.bin"
+hash-format = "sha256"
+hash = "d11b3cdcdad8d6743e3fbe8528ff9fd2f71f055fc40d0d47a8d9e37b7c1ca993"

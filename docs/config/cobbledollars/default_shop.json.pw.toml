@@ -1,0 +1,8 @@
+name = "default_shop.json"
+filename = "default_shop.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/9a8524c78b6627ee757a1ddf455e66ce40de38f496d396379d323226d296d26e.bin"
+hash-format = "sha256"
+hash = "9a8524c78b6627ee757a1ddf455e66ce40de38f496d396379d323226d296d26e"

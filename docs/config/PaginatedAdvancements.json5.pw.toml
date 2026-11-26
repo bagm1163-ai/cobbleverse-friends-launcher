@@ -1,0 +1,8 @@
+name = "PaginatedAdvancements.json5"
+filename = "PaginatedAdvancements.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/794e96df9fdd291b03ba4c66fc86b55ebe46636b878b6cf56621b3741fbdccd1.bin"
+hash-format = "sha256"
+hash = "794e96df9fdd291b03ba4c66fc86b55ebe46636b878b6cf56621b3741fbdccd1"

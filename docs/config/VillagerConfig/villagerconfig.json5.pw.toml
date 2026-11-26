@@ -1,0 +1,8 @@
+name = "villagerconfig.json5"
+filename = "villagerconfig.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5eff6162478691b82242f3574b7f2f5f008406c2ad330fdf4750860044d9f076.bin"
+hash-format = "sha256"
+hash = "5eff6162478691b82242f3574b7f2f5f008406c2ad330fdf4750860044d9f076"

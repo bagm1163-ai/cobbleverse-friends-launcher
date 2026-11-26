@@ -1,0 +1,8 @@
+name = "architectury-13.0.12-fabric.jar"
+filename = "architectury-13.0.12-fabric.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6caac47b3cdae0bcc6ccfbe31dbecc87dab5f43ac461a87f21c63498e8e90ca5.bin"
+hash-format = "sha256"
+hash = "6caac47b3cdae0bcc6ccfbe31dbecc87dab5f43ac461a87f21c63498e8e90ca5"

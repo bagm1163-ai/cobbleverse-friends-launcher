@@ -1,0 +1,8 @@
+name = "advancementdisable-fabric-1.0.1+1.21.jar"
+filename = "advancementdisable-fabric-1.0.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/5510/149/advancementdisable-fabric-1.0.1%2b1.21.jar"
+hash-format = "sha256"
+hash = "b2a51c10b3dbe2e81bbca10ad56e2d9df9e7e70bbf7ee8e1cfcd65b4e6de120e"

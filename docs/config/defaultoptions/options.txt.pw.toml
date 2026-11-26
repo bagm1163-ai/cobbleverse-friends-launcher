@@ -1,0 +1,8 @@
+name = "options.txt"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/735b9615d1071d81e9ba437db3bcb41ac1207d08f95acf06fbc07119634ec718.bin"
+hash-format = "sha256"
+hash = "735b9615d1071d81e9ba437db3bcb41ac1207d08f95acf06fbc07119634ec718"

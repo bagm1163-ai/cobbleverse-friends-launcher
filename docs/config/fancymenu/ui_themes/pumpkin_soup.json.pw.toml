@@ -1,0 +1,8 @@
+name = "pumpkin_soup.json"
+filename = "pumpkin_soup.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311.bin"
+hash-format = "sha256"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"

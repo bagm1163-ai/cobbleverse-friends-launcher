@@ -1,0 +1,8 @@
+name = "RadioTower.png"
+filename = "RadioTower.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/aaa397cbdd4acf6f7339986a5756164be1ca8fc6f53ace953b640116fd8eac56.bin"
+hash-format = "sha256"
+hash = "aaa397cbdd4acf6f7339986a5756164be1ca8fc6f53ace953b640116fd8eac56"

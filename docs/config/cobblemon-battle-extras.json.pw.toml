@@ -1,0 +1,8 @@
+name = "cobblemon-battle-extras.json"
+filename = "cobblemon-battle-extras.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/40c127cab1432010180796757755b6c0963e84af1f927046538b75bcfde0c088.bin"
+hash-format = "sha256"
+hash = "40c127cab1432010180796757755b6c0963e84af1f927046538b75bcfde0c088"

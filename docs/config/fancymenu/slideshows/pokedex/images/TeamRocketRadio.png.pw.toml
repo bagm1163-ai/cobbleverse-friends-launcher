@@ -1,0 +1,8 @@
+name = "TeamRocketRadio.png"
+filename = "TeamRocketRadio.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5035f5738ce61305f52154d757096d5134bf98a76a3a5f5324fdc23430ae1bb9.bin"
+hash-format = "sha256"
+hash = "5035f5738ce61305f52154d757096d5134bf98a76a3a5f5324fdc23430ae1bb9"

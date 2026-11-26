@@ -1,0 +1,8 @@
+name = "xaerominimap-fabric-1.21.1-26.6.0.jar"
+filename = "xaerominimap-fabric-1.21.1-26.6.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/86bdc4282a73ed55e6a4903a7ba65940a6aed20404f7ab7c96f8d94078accd1b.bin"
+hash-format = "sha256"
+hash = "86bdc4282a73ed55e6a4903a7ba65940a6aed20404f7ab7c96f8d94078accd1b"

@@ -1,0 +1,8 @@
+name = "square_logo.png"
+filename = "square_logo.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/95216230964f85781d47349312391914f4e01a45b9a1d1a404153acabb3eb03d.bin"
+hash-format = "sha256"
+hash = "95216230964f85781d47349312391914f4e01a45b9a1d1a404153acabb3eb03d"

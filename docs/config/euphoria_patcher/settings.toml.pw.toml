@@ -1,0 +1,8 @@
+name = "settings.toml"
+filename = "settings.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/42c4920277f8e3ea7c7bb3d31a92a2460e98375316dd265c3d2c4b77622ff93e.bin"
+hash-format = "sha256"
+hash = "42c4920277f8e3ea7c7bb3d31a92a2460e98375316dd265c3d2c4b77622ff93e"

@@ -1,0 +1,8 @@
+name = "carved_wood-common.json"
+filename = "carved_wood-common.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4065502346026ff105d7a2de92a978d2b87d476dfedda8ef78620cd442f821f7.bin"
+hash-format = "sha256"
+hash = "4065502346026ff105d7a2de92a978d2b87d476dfedda8ef78620cd442f821f7"

@@ -1,0 +1,8 @@
+name = "keybinder-1.2.1.jar"
+filename = "keybinder-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7790/25/keybinder-1.2.1.jar"
+hash-format = "sha256"
+hash = "aa58955ddf34721bba1e8546b0239d8348a22b488961831c66b4539e39108baf"

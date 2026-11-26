@@ -1,0 +1,8 @@
+name = "badoptimizations.txt"
+filename = "badoptimizations.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7de607165962952615803b9ffeb3773c0f31fc4e5803086d51333bdb8f5a6af7.bin"
+hash-format = "sha256"
+hash = "7de607165962952615803b9ffeb3773c0f31fc4e5803086d51333bdb8f5a6af7"

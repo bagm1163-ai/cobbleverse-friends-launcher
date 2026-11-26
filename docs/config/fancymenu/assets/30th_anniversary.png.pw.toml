@@ -1,0 +1,8 @@
+name = "30th_anniversary.png"
+filename = "30th_anniversary.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/383c07d334acf758178bc67cae2042320fee30154481a9845eec24335435db12.bin"
+hash-format = "sha256"
+hash = "383c07d334acf758178bc67cae2042320fee30154481a9845eec24335435db12"

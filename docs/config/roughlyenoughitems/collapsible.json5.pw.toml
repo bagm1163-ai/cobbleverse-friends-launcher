@@ -1,0 +1,8 @@
+name = "collapsible.json5"
+filename = "collapsible.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0f7dd1d6587d42fa2df948baeee57f1410ea4aac9e8fcf66461a00f74d45fc82.bin"
+hash-format = "sha256"
+hash = "0f7dd1d6587d42fa2df948baeee57f1410ea4aac9e8fcf66461a00f74d45fc82"

@@ -1,0 +1,8 @@
+name = "COBBLEVERSE_Korean_Patch_20261121.zip"
+filename = "COBBLEVERSE_Korean_Patch_20261121.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1c2e7537d16b9e7bb90cf08f11eb9a6a3bcd0a4cb50e58b037f4eb2f95aec717.bin"
+hash-format = "sha256"
+hash = "1c2e7537d16b9e7bb90cf08f11eb9a6a3bcd0a4cb50e58b037f4eb2f95aec717"

@@ -1,0 +1,8 @@
+name = "element_layer_control.lewidget"
+filename = "element_layer_control.lewidget"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ba349a7dd896feac3ac0e08e81d12329eee1b53e47e44e415ef1c8a5f67092ab.bin"
+hash-format = "sha256"
+hash = "ba349a7dd896feac3ac0e08e81d12329eee1b53e47e44e415ef1c8a5f67092ab"

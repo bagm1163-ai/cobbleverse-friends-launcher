@@ -1,0 +1,8 @@
+name = "properties.txt"
+filename = "properties.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/9db668249deb507978c7fd3309d68a76b06f785b8dd5610a8411d4380b13157d.bin"
+hash-format = "sha256"
+hash = "9db668249deb507978c7fd3309d68a76b06f785b8dd5610a8411d4380b13157d"

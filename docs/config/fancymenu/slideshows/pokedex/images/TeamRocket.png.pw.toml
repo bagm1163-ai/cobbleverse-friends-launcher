@@ -1,0 +1,8 @@
+name = "TeamRocket.png"
+filename = "TeamRocket.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/70179b9768cd3e5e2bc7d82e580865f616f3e410b810d2de1de944e61b89f202.bin"
+hash-format = "sha256"
+hash = "70179b9768cd3e5e2bc7d82e580865f616f3e410b810d2de1de944e61b89f202"

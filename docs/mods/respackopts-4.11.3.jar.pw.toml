@@ -1,0 +1,8 @@
+name = "respackopts-4.11.3.jar"
+filename = "respackopts-4.11.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/5799/816/respackopts-4.11.3.jar"
+hash-format = "sha256"
+hash = "1c3634a90548c839cb9e78409d346d712b1af73be839fa7c7ad59428b6398dea"

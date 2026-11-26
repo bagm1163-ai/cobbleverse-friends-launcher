@@ -1,0 +1,8 @@
+name = "indigo-renderer.properties"
+filename = "indigo-renderer.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0c2123ab98cd145a6beefc45899a846b29927835f2245a27d2f6574733b50bfd.bin"
+hash-format = "sha256"
+hash = "0c2123ab98cd145a6beefc45899a846b29927835f2245a27d2f6574733b50bfd"

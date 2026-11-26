@@ -1,0 +1,8 @@
+name = "sodium-fingerprint.json"
+filename = "sodium-fingerprint.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7e55623f7f83636e61ff5997b5f9f8877a4a8e5e416c367517bd447dbc11dbc8.bin"
+hash-format = "sha256"
+hash = "7e55623f7f83636e61ff5997b5f9f8877a4a8e5e416c367517bd447dbc11dbc8"

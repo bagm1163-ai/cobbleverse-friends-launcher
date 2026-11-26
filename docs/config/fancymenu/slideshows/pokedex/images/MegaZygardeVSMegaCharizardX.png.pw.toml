@@ -1,0 +1,8 @@
+name = "MegaZygardeVSMegaCharizardX.png"
+filename = "MegaZygardeVSMegaCharizardX.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a44e8da8b3bac2628b9b4ca0b26a01c050bcb561150af4b6501a7c1e9a6a4eeb.bin"
+hash-format = "sha256"
+hash = "a44e8da8b3bac2628b9b4ca0b26a01c050bcb561150af4b6501a7c1e9a6a4eeb"

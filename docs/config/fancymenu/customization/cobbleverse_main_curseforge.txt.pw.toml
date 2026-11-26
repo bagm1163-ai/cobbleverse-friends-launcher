@@ -1,0 +1,8 @@
+name = "cobbleverse_main_curseforge.txt"
+filename = "cobbleverse_main_curseforge.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e8f0d2d6413a3eb43cc7109a891b2d96ccaee8729b388079ed651ea681eaf82b.bin"
+hash-format = "sha256"
+hash = "e8f0d2d6413a3eb43cc7109a891b2d96ccaee8729b388079ed651ea681eaf82b"

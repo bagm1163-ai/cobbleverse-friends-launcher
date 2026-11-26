@@ -1,0 +1,8 @@
+name = "purple_void.json"
+filename = "purple_void.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0.bin"
+hash-format = "sha256"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"

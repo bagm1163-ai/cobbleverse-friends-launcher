@@ -1,0 +1,8 @@
+name = "COBBLEVERSE_EasyFarms_Korean_20261123.zip"
+filename = "COBBLEVERSE_EasyFarms_Korean_20261123.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5938cb2685330efdd873b83dfb8fbb43d006f2aaf7725a5c00f8acf3d954400b.bin"
+hash-format = "sha256"
+hash = "5938cb2685330efdd873b83dfb8fbb43d006f2aaf7725a5c00f8acf3d954400b"

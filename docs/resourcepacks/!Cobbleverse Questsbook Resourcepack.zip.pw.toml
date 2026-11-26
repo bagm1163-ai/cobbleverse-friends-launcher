@@ -1,0 +1,8 @@
+name = "!Cobbleverse Questsbook Resourcepack.zip"
+filename = "!Cobbleverse Questsbook Resourcepack.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/93a8bbd244448abba5270302a842f6793f9de4da84b1ccb2521afaad74591ea6.bin"
+hash-format = "sha256"
+hash = "93a8bbd244448abba5270302a842f6793f9de4da84b1ccb2521afaad74591ea6"

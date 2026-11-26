@@ -1,0 +1,8 @@
+name = "global_packs.toml"
+filename = "global_packs.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d7a28e552872125a961f45631c32e3ae8f6dd63acde561083f15cc9270f7a78a.bin"
+hash-format = "sha256"
+hash = "d7a28e552872125a961f45631c32e3ae8f6dd63acde561083f15cc9270f7a78a"

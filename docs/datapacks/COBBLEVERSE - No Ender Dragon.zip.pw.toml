@@ -1,0 +1,8 @@
+name = "COBBLEVERSE - No Ender Dragon.zip"
+filename = "COBBLEVERSE - No Ender Dragon.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af.bin"
+hash-format = "sha256"
+hash = "f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af"

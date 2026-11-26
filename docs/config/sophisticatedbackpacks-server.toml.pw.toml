@@ -1,0 +1,8 @@
+name = "sophisticatedbackpacks-server.toml"
+filename = "sophisticatedbackpacks-server.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a55f9d37e35ace0d0fb0070fb99ca4581f93206066355dc36b74e81e0072f685.bin"
+hash-format = "sha256"
+hash = "a55f9d37e35ace0d0fb0070fb99ca4581f93206066355dc36b74e81e0072f685"

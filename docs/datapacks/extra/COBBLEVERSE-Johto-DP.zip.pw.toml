@@ -1,0 +1,8 @@
+name = "COBBLEVERSE-Johto-DP.zip"
+filename = "COBBLEVERSE-Johto-DP.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6ec080be3acd58bdc48740da122efcb21a639d839e6607d656cdb3192397d45a.bin"
+hash-format = "sha256"
+hash = "6ec080be3acd58bdc48740da122efcb21a639d839e6607d656cdb3192397d45a"

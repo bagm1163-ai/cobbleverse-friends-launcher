@@ -1,0 +1,8 @@
+name = "occlusion.properties"
+filename = "occlusion.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/273214a8ed3b42da98b0cf6abdad616dec72e00c9a4fe143ec50ee36176f9958.bin"
+hash-format = "sha256"
+hash = "273214a8ed3b42da98b0cf6abdad616dec72e00c9a4fe143ec50ee36176f9958"

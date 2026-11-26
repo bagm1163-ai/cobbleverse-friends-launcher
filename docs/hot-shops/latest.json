@@ -1,0 +1,1005 @@
+{
+  "schema": 1,
+  "channel": "hot-shops",
+  "version": "3ecdc8bca364a3ae",
+  "generated_utc": "2026-11-25T18:52:06.371137+00:00",
+  "reload_command": "shops reload",
+  "files": [
+    {
+      "path": "confirm_menus/example_buy.json",
+      "size": 2799,
+      "sha256": "b91a2aed181fe0017e982977722352c68085c05b7195623aa1f6555428b20991",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b91a2aed181fe0017e982977722352c68085c05b7195623aa1f6555428b20991.bin"
+    },
+    {
+      "path": "confirm_menus/example_sell.json",
+      "size": 2787,
+      "sha256": "311d262ea014eddfc46ff75f4ca10278f90a4f1bbad4d51bdd34c36ac255e041",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/311d262ea014eddfc46ff75f4ca10278f90a4f1bbad4d51bdd34c36ac255e041.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_ears.json",
+      "size": 11172,
+      "sha256": "fdd83a31b7515ecec2ea7dd4c4c97efd90ac79f3977a24b647056e2bc4ab51fb",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fdd83a31b7515ecec2ea7dd4c4c97efd90ac79f3977a24b647056e2bc4ab51fb.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_face.json",
+      "size": 9838,
+      "sha256": "ed5293e7faf7aeb0758335c140ef9cc24072f40d45f949de131db4b8de4fc473",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ed5293e7faf7aeb0758335c140ef9cc24072f40d45f949de131db4b8de4fc473.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_finery.json",
+      "size": 12155,
+      "sha256": "0de11b5914208ae740b3ef6828eb1fba0bad733feec3006d0532ace8a8ca3926",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0de11b5914208ae740b3ef6828eb1fba0bad733feec3006d0532ace8a8ca3926.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_fun.json",
+      "size": 1940,
+      "sha256": "8478645213acacb4a79f2b12fdeccb8ee8b9bce0fe043cc1befdf2b0ee3c4904",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8478645213acacb4a79f2b12fdeccb8ee8b9bce0fe043cc1befdf2b0ee3c4904.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_fun_af.json",
+      "size": 24650,
+      "sha256": "aae6b181b42ae5a8f2c9df2b0be477662751f6d0521b530b57b16c4c950c6ec2",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/aae6b181b42ae5a8f2c9df2b0be477662751f6d0521b530b57b16c4c950c6ec2.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_fun_gm.json",
+      "size": 9753,
+      "sha256": "8ff68767a1ea72068aa9ed4e0e8f3e9a859b45fe8f6faf21afd5f686d1660535",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8ff68767a1ea72068aa9ed4e0e8f3e9a859b45fe8f6faf21afd5f686d1660535.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_fun_ns.json",
+      "size": 19070,
+      "sha256": "14a8a1a0a78a331c69b20230c4beb76ef78b485c24fdbe09abe79c8336043a19",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/14a8a1a0a78a331c69b20230c4beb76ef78b485c24fdbe09abe79c8336043a19.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_fun_tz.json",
+      "size": 6253,
+      "sha256": "3e8919ca93be60fbf082e4d48e2bafeabe431303439c4e18b83b1839a15796fa",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3e8919ca93be60fbf082e4d48e2bafeabe431303439c4e18b83b1839a15796fa.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_head.json",
+      "size": 24854,
+      "sha256": "ba7255c973bc702c6d1f7fb248aa51d5154e8798e888ee9f6912319dd5ec034a",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ba7255c973bc702c6d1f7fb248aa51d5154e8798e888ee9f6912319dd5ec034a.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_market.json",
+      "size": 2765,
+      "sha256": "0ea02fcc957fdb781e32ccdca116d41ac5762a54b6b5e965e9b87f272a549db7",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0ea02fcc957fdb781e32ccdca116d41ac5762a54b6b5e965e9b87f272a549db7.bin"
+    },
+    {
+      "path": "shops/cv_cosmetics_vesture.json",
+      "size": 28236,
+      "sha256": "c32f18de463fee81f58cc3010c7e6aa50e49a0784caaa1b506c790764935fe45",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c32f18de463fee81f58cc3010c7e6aa50e49a0784caaa1b506c790764935fe45.bin"
+    },
+    {
+      "path": "shops/cv_crop_cooking.json",
+      "size": 627,
+      "sha256": "b2df845d3b3ad2f32e3647c289d627c8416743f5b045a189c7b2d0562f231c41",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b2df845d3b3ad2f32e3647c289d627c8416743f5b045a189c7b2d0562f231c41.bin"
+    },
+    {
+      "path": "shops/cv_crop_market.json",
+      "size": 1813,
+      "sha256": "3098d806980d39610d2fc474938153d676f964fdd73c2c102bec764477ea9062",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3098d806980d39610d2fc474938153d676f964fdd73c2c102bec764477ea9062.bin"
+    },
+    {
+      "path": "shops/cv_crop_produce.json",
+      "size": 22662,
+      "sha256": "5e07bcfdf6ca7661cc5ac65c0c99f00b305ed19af25bf28667e305e623d94a54",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5e07bcfdf6ca7661cc5ac65c0c99f00b305ed19af25bf28667e305e623d94a54.bin"
+    },
+    {
+      "path": "shops/cv_crop_seeds.json",
+      "size": 13635,
+      "sha256": "20d7dc9e93be6bb84de974afaa8c558c16fbe8b5136ddf5a29f7c0e75cc8ddbc",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/20d7dc9e93be6bb84de974afaa8c558c16fbe8b5136ddf5a29f7c0e75cc8ddbc.bin"
+    },
+    {
+      "path": "shops/cv_department_apricorns.json",
+      "size": 8459,
+      "sha256": "29c49a59c4417db23dbc8b00ef9d6ded6ed23f1b39f421c811a909004261de7a",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/29c49a59c4417db23dbc8b00ef9d6ded6ed23f1b39f421c811a909004261de7a.bin"
+    },
+    {
+      "path": "shops/cv_department_battle_items.json",
+      "size": 5069,
+      "sha256": "fab69fbfb024afb404eceba22ca9f448a459961d458f28d60a8774627c9f0359",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fab69fbfb024afb404eceba22ca9f448a459961d458f28d60a8774627c9f0359.bin"
+    },
+    {
+      "path": "shops/cv_department_currency_exchange.json",
+      "size": 2856,
+      "sha256": "098a8e9c24917170d911e77586aab7f5de5aaf6636182e08df75ceb781d8228e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/098a8e9c24917170d911e77586aab7f5de5aaf6636182e08df75ceb781d8228e.bin"
+    },
+    {
+      "path": "shops/cv_department_ev_stone.json",
+      "size": 6219,
+      "sha256": "5a2d877eb1229cef14d9f3557adf023f2ec4459e1d3f3a000a7c0acdc17f9a24",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5a2d877eb1229cef14d9f3557adf023f2ec4459e1d3f3a000a7c0acdc17f9a24.bin"
+    },
+    {
+      "path": "shops/cv_department_ev_stone_2_seller.json",
+      "size": 14528,
+      "sha256": "8d750459b1ee0422b284f02547808fea8d938ff112d099c0451b1bfd2694df00",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8d750459b1ee0422b284f02547808fea8d938ff112d099c0451b1bfd2694df00.bin"
+    },
+    {
+      "path": "shops/cv_department_food.json",
+      "size": 612,
+      "sha256": "4f6915349b9e92ab7e84a67e32e32f8fe310dbd026328515f1c1b7cc431d20c2",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4f6915349b9e92ab7e84a67e32e32f8fe310dbd026328515f1c1b7cc431d20c2.bin"
+    },
+    {
+      "path": "shops/cv_department_general.json",
+      "size": 11608,
+      "sha256": "de2bf1be5a4a8ad0748035f912cb681d15bd61b6d2812f1abd707bedf35708ce",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/de2bf1be5a4a8ad0748035f912cb681d15bd61b6d2812f1abd707bedf35708ce.bin"
+    },
+    {
+      "path": "shops/cv_department_held_items.json",
+      "size": 10638,
+      "sha256": "c0a076f90aaf921fb2dd5a3c8991ccbda3c180d03e97c5e52c9197eeca69b47d",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c0a076f90aaf921fb2dd5a3c8991ccbda3c180d03e97c5e52c9197eeca69b47d.bin"
+    },
+    {
+      "path": "shops/cv_department_held_items_2.json",
+      "size": 27843,
+      "sha256": "d8cf6e8f8bab2d1883607a89883286a95f5eda8172bd5c87925d6669635cec99",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d8cf6e8f8bab2d1883607a89883286a95f5eda8172bd5c87925d6669635cec99.bin"
+    },
+    {
+      "path": "shops/cv_department_mulch.json",
+      "size": 5550,
+      "sha256": "6aaf6e4bc958917bce94c04532beac37f04d1ef681637397960bf04cf7084524",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6aaf6e4bc958917bce94c04532beac37f04d1ef681637397960bf04cf7084524.bin"
+    },
+    {
+      "path": "shops/cv_department_special_balls.json",
+      "size": 5597,
+      "sha256": "8ccf2b001eae73e83bfed912d9286672291695839350ab10f755e0a86e9efc44",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8ccf2b001eae73e83bfed912d9286672291695839350ab10f755e0a86e9efc44.bin"
+    },
+    {
+      "path": "shops/cv_department_tech.json",
+      "size": 13060,
+      "sha256": "2f40b44c59938c6168cc7e25a925d8160fa07105e299e37fff0b42e1ffeb6e6e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2f40b44c59938c6168cc7e25a925d8160fa07105e299e37fff0b42e1ffeb6e6e.bin"
+    },
+    {
+      "path": "shops/cv_department_vitamins.json",
+      "size": 4956,
+      "sha256": "5667f60e1677a8a6e428fa5e91d8640710933b557146c518b7b8bff54712151f",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5667f60e1677a8a6e428fa5e91d8640710933b557146c518b7b8bff54712151f.bin"
+    },
+    {
+      "path": "shops/cv_department_xp.json",
+      "size": 5058,
+      "sha256": "d7987e5a571f50f52092c505ed1f1d415604b0d0352b949619412f5289f3e0f3",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d7987e5a571f50f52092c505ed1f1d415604b0d0352b949619412f5289f3e0f3.bin"
+    },
+    {
+      "path": "shops/cv_easyfarms_farming.json",
+      "size": 10692,
+      "sha256": "c7c4daa7b21acc40eeb4d356c38878818e8c9a427ab2b9118a820a1c78950bb6",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c7c4daa7b21acc40eeb4d356c38878818e8c9a427ab2b9118a820a1c78950bb6.bin"
+    },
+    {
+      "path": "shops/cv_furniture_market.json",
+      "size": 3553,
+      "sha256": "046bd807517b1c6dc76c2212f11ade50d6ab7a2d9e9ca4193e262c378e93ac0c",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/046bd807517b1c6dc76c2212f11ade50d6ab7a2d9e9ca4193e262c378e93ac0c.bin"
+    },
+    {
+      "path": "shops/cv_goods_bedroom.json",
+      "size": 1652,
+      "sha256": "9b4d6c10cf5fc459dc0a09c27833df0bcefb3b02a8b7d0a3a763927b095f4ff2",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/9b4d6c10cf5fc459dc0a09c27833df0bcefb3b02a8b7d0a3a763927b095f4ff2.bin"
+    },
+    {
+      "path": "shops/cv_goods_bedroom_bath.json",
+      "size": 7182,
+      "sha256": "c8881a6f402ece1d372515b0254855edf4da3230edcec7ff73ce593b9451d9dd",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c8881a6f402ece1d372515b0254855edf4da3230edcec7ff73ce593b9451d9dd.bin"
+    },
+    {
+      "path": "shops/cv_goods_bedroom_bed.json",
+      "size": 4330,
+      "sha256": "835f0319646a055652dd4161a90920b0c3a8557a24330ef750787a3811ea193e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/835f0319646a055652dd4161a90920b0c3a8557a24330ef750787a3811ea193e.bin"
+    },
+    {
+      "path": "shops/cv_goods_bedroom_kitchen.json",
+      "size": 26883,
+      "sha256": "974a7078863a9f7256c03ea287b4d76834fd1c9eb1ab8aa090190309ddb8cfc6",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/974a7078863a9f7256c03ea287b4d76834fd1c9eb1ab8aa090190309ddb8cfc6.bin"
+    },
+    {
+      "path": "shops/cv_goods_decor.json",
+      "size": 2049,
+      "sha256": "0ab7c51a184551de5eea3d558bb730e8deb3c62f77de76e4489ba0beb7cdc34c",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0ab7c51a184551de5eea3d558bb730e8deb3c62f77de76e4489ba0beb7cdc34c.bin"
+    },
+    {
+      "path": "shops/cv_goods_decor_clock.json",
+      "size": 15068,
+      "sha256": "3d4c4d0bc81b507e6b58b6cb2788e427bc3a043737fd555dc31482e93fe89754",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3d4c4d0bc81b507e6b58b6cb2788e427bc3a043737fd555dc31482e93fe89754.bin"
+    },
+    {
+      "path": "shops/cv_goods_decor_fabric.json",
+      "size": 5622,
+      "sha256": "e93168251fcf0ef2bc72dbf39e3a47f59565c8b83738247b308da4c7a869606e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e93168251fcf0ef2bc72dbf39e3a47f59565c8b83738247b308da4c7a869606e.bin"
+    },
+    {
+      "path": "shops/cv_goods_decor_other.json",
+      "size": 4902,
+      "sha256": "2bcaec3a72ead01004e599cbb8b6ee86ae531295873b95448bf2ec9c665e3702",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2bcaec3a72ead01004e599cbb8b6ee86ae531295873b95448bf2ec9c665e3702.bin"
+    },
+    {
+      "path": "shops/cv_goods_decor_plant.json",
+      "size": 6947,
+      "sha256": "dcc57698088979fdd759b64462b84afa3c65a280c9a8e64452e41c026df027ef",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/dcc57698088979fdd759b64462b84afa3c65a280c9a8e64452e41c026df027ef.bin"
+    },
+    {
+      "path": "shops/cv_goods_lighting.json",
+      "size": 1662,
+      "sha256": "57210ac622632dfd5915ea7447300d19dffaf70fc3a6e2b0c266fde21bc247d9",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/57210ac622632dfd5915ea7447300d19dffaf70fc3a6e2b0c266fde21bc247d9.bin"
+    },
+    {
+      "path": "shops/cv_goods_lighting_chandelier.json",
+      "size": 2261,
+      "sha256": "71c76b71b632c713beb1fef1be59a203138f29bb3488cd860d20f494131957ef",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/71c76b71b632c713beb1fef1be59a203138f29bb3488cd860d20f494131957ef.bin"
+    },
+    {
+      "path": "shops/cv_goods_lighting_lamp.json",
+      "size": 52113,
+      "sha256": "bf9151eed3bf20292662afd06fa93e19167ebd3fe22758c079a1f0c3e58573cd",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bf9151eed3bf20292662afd06fa93e19167ebd3fe22758c079a1f0c3e58573cd.bin"
+    },
+    {
+      "path": "shops/cv_goods_lighting_torch.json",
+      "size": 18927,
+      "sha256": "98c53942d551b7e82308f142d64d04264e0284aea8099eda5b0ccf3395171f0d",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/98c53942d551b7e82308f142d64d04264e0284aea8099eda5b0ccf3395171f0d.bin"
+    },
+    {
+      "path": "shops/cv_goods_misc.json",
+      "size": 3204,
+      "sha256": "7fc90dc105b327d563b00efaef15b937e176eb9b70043ed54de1b48afdf8df61",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7fc90dc105b327d563b00efaef15b937e176eb9b70043ed54de1b48afdf8df61.bin"
+    },
+    {
+      "path": "shops/cv_goods_misc_fabric.json",
+      "size": 13991,
+      "sha256": "5067e99e15444da3087bffe20ba84979e5838e9bf23c92396abfbe740a738e21",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5067e99e15444da3087bffe20ba84979e5838e9bf23c92396abfbe740a738e21.bin"
+    },
+    {
+      "path": "shops/cv_goods_misc_kitchen.json",
+      "size": 10210,
+      "sha256": "d6a5371ed7093c8168c3500c904ad23aa19ddec57294ce42d4284e2e2606f394",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d6a5371ed7093c8168c3500c904ad23aa19ddec57294ce42d4284e2e2606f394.bin"
+    },
+    {
+      "path": "shops/cv_goods_misc_material.json",
+      "size": 39406,
+      "sha256": "7e28f1a86c6404d7073756290411ea2eec1094d957bf98288bdd3aec987b12cd",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7e28f1a86c6404d7073756290411ea2eec1094d957bf98288bdd3aec987b12cd.bin"
+    },
+    {
+      "path": "shops/cv_goods_misc_other.json",
+      "size": 2536,
+      "sha256": "9111385593f13addb7ab27e1afa15d9f543124a9cd46fd538992d5bcbed719d3",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/9111385593f13addb7ab27e1afa15d9f543124a9cd46fd538992d5bcbed719d3.bin"
+    },
+    {
+      "path": "shops/cv_goods_misc_outdoor.json",
+      "size": 21588,
+      "sha256": "48c8ca746bfba6b71d828d517d2546242a13ee148872dbe7fc435b82746ab367",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/48c8ca746bfba6b71d828d517d2546242a13ee148872dbe7fc435b82746ab367.bin"
+    },
+    {
+      "path": "shops/cv_goods_misc_tool.json",
+      "size": 2247,
+      "sha256": "b5cccd92f1f57b9c6b60bd67048164e6d1ce42eeabab2a9b8b545234a43bcc26",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b5cccd92f1f57b9c6b60bd67048164e6d1ce42eeabab2a9b8b545234a43bcc26.bin"
+    },
+    {
+      "path": "shops/cv_goods_misc_trophy.json",
+      "size": 8386,
+      "sha256": "b7ede22c9da2a73f90b5c2f8f488ae1a61c17b4c3058bb31174c31688d962d68",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b7ede22c9da2a73f90b5c2f8f488ae1a61c17b4c3058bb31174c31688d962d68.bin"
+    },
+    {
+      "path": "shops/cv_goods_plushies.json",
+      "size": 1273,
+      "sha256": "d59bf8290af3028811c76a7de405e7f9275f2f17961afce8d8fbcbe503f279d5",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d59bf8290af3028811c76a7de405e7f9275f2f17961afce8d8fbcbe503f279d5.bin"
+    },
+    {
+      "path": "shops/cv_goods_plushies_buddies.json",
+      "size": 27074,
+      "sha256": "efa8de4a7072257f2830103b222cfec648828aa97d42690714227b0aab3fc0f2",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/efa8de4a7072257f2830103b222cfec648828aa97d42690714227b0aab3fc0f2.bin"
+    },
+    {
+      "path": "shops/cv_goods_plushies_plush.json",
+      "size": 33281,
+      "sha256": "981b6cd8eab6e740a0f92b95dca7f965f6d3eac26fd52fcd79f5367d8cfccbc1",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/981b6cd8eab6e740a0f92b95dca7f965f6d3eac26fd52fcd79f5367d8cfccbc1.bin"
+    },
+    {
+      "path": "shops/cv_goods_seating.json",
+      "size": 2014,
+      "sha256": "5ac0040fdf51bd7fc6f2fb01f872cc4b54e5ad3cc0540504d8bcbaa70c7f974c",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5ac0040fdf51bd7fc6f2fb01f872cc4b54e5ad3cc0540504d8bcbaa70c7f974c.bin"
+    },
+    {
+      "path": "shops/cv_goods_seating_bench.json",
+      "size": 11762,
+      "sha256": "febb4a3ffe1faeda6226ddf77bc137f3b1ebc58ccdbecf0994cf4536fc1c5bd2",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/febb4a3ffe1faeda6226ddf77bc137f3b1ebc58ccdbecf0994cf4536fc1c5bd2.bin"
+    },
+    {
+      "path": "shops/cv_goods_seating_chair.json",
+      "size": 51522,
+      "sha256": "8a03d30f01b392502968fa18bd8e320e8900aa2cafbfe644d07c8d8bd1ae12a5",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8a03d30f01b392502968fa18bd8e320e8900aa2cafbfe644d07c8d8bd1ae12a5.bin"
+    },
+    {
+      "path": "shops/cv_goods_seating_sofa.json",
+      "size": 29190,
+      "sha256": "b89360dc0eaecc3dd9512577e4b05f4286c7afb94989d92fedb40caeea437afa",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b89360dc0eaecc3dd9512577e4b05f4286c7afb94989d92fedb40caeea437afa.bin"
+    },
+    {
+      "path": "shops/cv_goods_seating_stool.json",
+      "size": 21178,
+      "sha256": "b02cb6614e349b7f740ae5b51b5d26e3a4ba0e8d7367ecaeb93603705087b66d",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b02cb6614e349b7f740ae5b51b5d26e3a4ba0e8d7367ecaeb93603705087b66d.bin"
+    },
+    {
+      "path": "shops/cv_goods_tables.json",
+      "size": 3202,
+      "sha256": "5f5dd2bc5fb56d00414477878e05bedba17519d014c0ce6399c98fb76f2485ee",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5f5dd2bc5fb56d00414477878e05bedba17519d014c0ce6399c98fb76f2485ee.bin"
+    },
+    {
+      "path": "shops/cv_goods_tables_books.json",
+      "size": 35113,
+      "sha256": "976eb43191d1d46edae28f136cacca525944976945ad73ac7c00d0ccbc879858",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/976eb43191d1d46edae28f136cacca525944976945ad73ac7c00d0ccbc879858.bin"
+    },
+    {
+      "path": "shops/cv_goods_tables_cabinet.json",
+      "size": 44441,
+      "sha256": "77d7cfdbcce14f0f942e2863877137b2bfb39327cc732a87cb3f7add6a8e959e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/77d7cfdbcce14f0f942e2863877137b2bfb39327cc732a87cb3f7add6a8e959e.bin"
+    },
+    {
+      "path": "shops/cv_goods_tables_counter.json",
+      "size": 20747,
+      "sha256": "ce4de7bfccbb41d5e2af6dac504620493390eb40f5b7294cf4ed80c61937bdfc",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ce4de7bfccbb41d5e2af6dac504620493390eb40f5b7294cf4ed80c61937bdfc.bin"
+    },
+    {
+      "path": "shops/cv_goods_tables_desk.json",
+      "size": 27078,
+      "sha256": "08d999e2200957a1a6af116eedbec38dc384dcb7902110da8930ccb03c981b58",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/08d999e2200957a1a6af116eedbec38dc384dcb7902110da8930ccb03c981b58.bin"
+    },
+    {
+      "path": "shops/cv_goods_tables_drawer.json",
+      "size": 67400,
+      "sha256": "8200f618c32f2abba049fd0effabb8c57151fd174b0dd518ee3e9cbdae5c54de",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8200f618c32f2abba049fd0effabb8c57151fd174b0dd518ee3e9cbdae5c54de.bin"
+    },
+    {
+      "path": "shops/cv_goods_tables_table.json",
+      "size": 56820,
+      "sha256": "2852429951578ae8d643e658009e2237a4d9886e0761d4c2bbe4291cc81274cb",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2852429951578ae8d643e658009e2237a4d9886e0761d4c2bbe4291cc81274cb.bin"
+    },
+    {
+      "path": "shops/cv_goods_tables_wardrobe.json",
+      "size": 20621,
+      "sha256": "8447bd015358121633582905c334b6e2e596494a06a3d181379bdbce0e4d7d21",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8447bd015358121633582905c334b6e2e596494a06a3d181379bdbce0e4d7d21.bin"
+    },
+    {
+      "path": "shops/cv_goods_windows.json",
+      "size": 2434,
+      "sha256": "5aa95fd9e50735f0c3695f009dc51f645f82c432da08e2309a9f916aec85856f",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5aa95fd9e50735f0c3695f009dc51f645f82c432da08e2309a9f916aec85856f.bin"
+    },
+    {
+      "path": "shops/cv_goods_windows_curtain.json",
+      "size": 22518,
+      "sha256": "3eebf6e1be573113825a6b12feabf365cbc080432f4d53878b3198a75733d8f9",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3eebf6e1be573113825a6b12feabf365cbc080432f4d53878b3198a75733d8f9.bin"
+    },
+    {
+      "path": "shops/cv_goods_windows_decor.json",
+      "size": 4791,
+      "sha256": "38b5242244e144da9883b98bfcee9fb5f41257fa739546c99fac2a943fd1bc30",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/38b5242244e144da9883b98bfcee9fb5f41257fa739546c99fac2a943fd1bc30.bin"
+    },
+    {
+      "path": "shops/cv_goods_windows_other.json",
+      "size": 3170,
+      "sha256": "f503b18f4358a90ae9cbbc2155a1680f4675262a3cdfdf3d4a42d660788cbad3",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f503b18f4358a90ae9cbbc2155a1680f4675262a3cdfdf3d4a42d660788cbad3.bin"
+    },
+    {
+      "path": "shops/cv_goods_windows_shutter.json",
+      "size": 12246,
+      "sha256": "cc4aacdf3026a6c88c4c8486aceae8ae1de1e08e4ac153a315a7f63ae82a44a9",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/cc4aacdf3026a6c88c4c8486aceae8ae1de1e08e4ac153a315a7f63ae82a44a9.bin"
+    },
+    {
+      "path": "shops/cv_goods_windows_window.json",
+      "size": 62122,
+      "sha256": "a7d013a081bdf8b86d65cb5967201c2cc57496f39f93ee490a5780ac658536fe",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a7d013a081bdf8b86d65cb5967201c2cc57496f39f93ee490a5780ac658536fe.bin"
+    },
+    {
+      "path": "shops/cv_life_agriculture.json",
+      "size": 2338,
+      "sha256": "276a565a0c4651eb79080d13a52e969a4f5f9f49c199f1857d7c2575d7a60235",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/276a565a0c4651eb79080d13a52e969a4f5f9f49c199f1857d7c2575d7a60235.bin"
+    },
+    {
+      "path": "shops/cv_life_explore.json",
+      "size": 864,
+      "sha256": "08ef9ff4c1c0216fe165aa471376943a11798e73eba3aa375f1acbcd300b3a7b",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/08ef9ff4c1c0216fe165aa471376943a11798e73eba3aa375f1acbcd300b3a7b.bin"
+    },
+    {
+      "path": "shops/cv_life_food.json",
+      "size": 1626,
+      "sha256": "cb554d9430c81fa822b915fc5ee2c5fbafdd9911fd9ffe6d8592ee27e1024e05",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/cb554d9430c81fa822b915fc5ee2c5fbafdd9911fd9ffe6d8592ee27e1024e05.bin"
+    },
+    {
+      "path": "shops/cv_life_mobility.json",
+      "size": 1656,
+      "sha256": "1ac3e7fe51d8661eb841358a7ee83757a8d98577ecee9a0c983a58af2fc88493",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1ac3e7fe51d8661eb841358a7ee83757a8d98577ecee9a0c983a58af2fc88493.bin"
+    },
+    {
+      "path": "shops/cv_life_pokemon.json",
+      "size": 3320,
+      "sha256": "b38eabae8dce3e9c4870079e472abbe15c409d20af8a2c2671e2b9288726a68e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b38eabae8dce3e9c4870079e472abbe15c409d20af8a2c2671e2b9288726a68e.bin"
+    },
+    {
+      "path": "shops/cv_life_resources.json",
+      "size": 1991,
+      "sha256": "b5dacb2846e652d3c766d3e1d35d79ab77b5fe1211499b6065b3db758746c891",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b5dacb2846e652d3c766d3e1d35d79ab77b5fe1211499b6065b3db758746c891.bin"
+    },
+    {
+      "path": "shops/cv_life_tools.json",
+      "size": 2416,
+      "sha256": "1f816e7ddd6c80befa386ca0122a45a11880e3cfe34a59c12c97c94e77d84429",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1f816e7ddd6c80befa386ca0122a45a11880e3cfe34a59c12c97c94e77d84429.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_held_farmable.json",
+      "size": 2639,
+      "sha256": "26e86478ffdcb0fcd319e8ead9406d9635f762e1e54342c65525a61d87ab0329",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/26e86478ffdcb0fcd319e8ead9406d9635f762e1e54342c65525a61d87ab0329.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_held_farmable_battle.json",
+      "size": 28699,
+      "sha256": "571ce4e8929729f6faf722097e05ed29cba5b1e81b7f6dea54ac504e962b7bdf",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/571ce4e8929729f6faf722097e05ed29cba5b1e81b7f6dea54ac504e962b7bdf.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_held_farmable_evolution.json",
+      "size": 646,
+      "sha256": "bcbde59f56580fa467bdff55eacc3ffd229b0164fffd41311b2fa91c989855c8",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bcbde59f56580fa467bdff55eacc3ffd229b0164fffd41311b2fa91c989855c8.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_held_farmable_gem.json",
+      "size": 12116,
+      "sha256": "6895be9c92f7ce9f9a70877a073463885b330db8b8600c16d36229014a5e86b7",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6895be9c92f7ce9f9a70877a073463885b330db8b8600c16d36229014a5e86b7.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_held_farmable_typeboost.json",
+      "size": 10454,
+      "sha256": "f5be1d0ae22961fc4d9ff9d8a395ead3f7b7d6c451c194ac6fbf579e99f53acd",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f5be1d0ae22961fc4d9ff9d8a395ead3f7b7d6c451c194ac6fbf579e99f53acd.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_held_farmable_weather.json",
+      "size": 7147,
+      "sha256": "17c90fbc9cef901a3b26591ba3a9dc754ff8a8007f815754f0f7d6325afb375e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/17c90fbc9cef901a3b26591ba3a9dc754ff8a8007f815754f0f7d6325afb375e.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_bug.json",
+      "size": 11472,
+      "sha256": "183a97ad5d33d4c21ad19656146f7fe787a656754ef110a21487df07e64f4cda",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/183a97ad5d33d4c21ad19656146f7fe787a656754ef110a21487df07e64f4cda.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_dark.json",
+      "size": 16126,
+      "sha256": "b4bb1ff023321ac588a4fd1329221fddd6b26bb38c66032b998dbe78f2b5c495",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b4bb1ff023321ac588a4fd1329221fddd6b26bb38c66032b998dbe78f2b5c495.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_dragon.json",
+      "size": 7792,
+      "sha256": "80bee5c452aa190c2bf90275229bb0c75b8eb2aa5f6d42a80a294b3a70023a4b",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/80bee5c452aa190c2bf90275229bb0c75b8eb2aa5f6d42a80a294b3a70023a4b.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_electric.json",
+      "size": 11618,
+      "sha256": "96df9da8ea0fa3f1af0c56cc2fd65ca056fd4b0db5df40fe5d1e5b46388d0d62",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/96df9da8ea0fa3f1af0c56cc2fd65ca056fd4b0db5df40fe5d1e5b46388d0d62.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_fairy.json",
+      "size": 5792,
+      "sha256": "d984e5b33e5f90cacd023eeff49b7817ffe601cd1763c55adde8e795e979c914",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d984e5b33e5f90cacd023eeff49b7817ffe601cd1763c55adde8e795e979c914.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_farmable.json",
+      "size": 7312,
+      "sha256": "c3ade97be35a862529254dfa663000ecbdc8a9ec26fe1d731078ed846eca18c2",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c3ade97be35a862529254dfa663000ecbdc8a9ec26fe1d731078ed846eca18c2.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_fighting.json",
+      "size": 17518,
+      "sha256": "9f870a55877049953ab7d2c70f358d5d5340f80f1e9db2b71e74a09ac42e46d7",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/9f870a55877049953ab7d2c70f358d5d5340f80f1e9db2b71e74a09ac42e46d7.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_fire.json",
+      "size": 12484,
+      "sha256": "5d90c8da8b542055833e36d3c021dfdb751b6254fdba49abbb6ae58fe5813fe7",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5d90c8da8b542055833e36d3c021dfdb751b6254fdba49abbb6ae58fe5813fe7.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_flying.json",
+      "size": 9998,
+      "sha256": "19e46ba9aa264c24eee43cc834c5f5b4baba28b56981d9dff6670c02a1c1088b",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/19e46ba9aa264c24eee43cc834c5f5b4baba28b56981d9dff6670c02a1c1088b.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_ghost.json",
+      "size": 8005,
+      "sha256": "f9989a9d1ca4def974e1da987e3f3364517968aa9f7d45da2c85d12437677fbf",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f9989a9d1ca4def974e1da987e3f3364517968aa9f7d45da2c85d12437677fbf.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_grass.json",
+      "size": 12485,
+      "sha256": "48d9b35d79746059795777bcea66cbc16a70af356f440233913de2e8468f479e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/48d9b35d79746059795777bcea66cbc16a70af356f440233913de2e8468f479e.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_ground.json",
+      "size": 9389,
+      "sha256": "23d5b685e86776923160ef6be3735dc5f5a0cf830b74a937a903c8db8d8dd4da",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/23d5b685e86776923160ef6be3735dc5f5a0cf830b74a937a903c8db8d8dd4da.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_ice.json",
+      "size": 10765,
+      "sha256": "9bfea14047e475c306a0030781b2fa677b2a52cd2a2a02d704e06c10db613bb9",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/9bfea14047e475c306a0030781b2fa677b2a52cd2a2a02d704e06c10db613bb9.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_normal.json",
+      "size": 47101,
+      "sha256": "18453138ba2ab5437524be302a40ad020edbe28c118ada6966267c8a454f62c7",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/18453138ba2ab5437524be302a40ad020edbe28c118ada6966267c8a454f62c7.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_poison.json",
+      "size": 7962,
+      "sha256": "92c678ef0b1964ad668b5475a174a5d6c4e0ddd95fdb117f4bd96da136b1ddf0",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/92c678ef0b1964ad668b5475a174a5d6c4e0ddd95fdb117f4bd96da136b1ddf0.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_psychic.json",
+      "size": 23510,
+      "sha256": "fb206c4d29f871c250e366e25d654957061210b10e5817b9f8eb699a70d18b0d",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fb206c4d29f871c250e366e25d654957061210b10e5817b9f8eb699a70d18b0d.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_rock.json",
+      "size": 7875,
+      "sha256": "5f5b4d42e961a05bf6343643e923be8f2c50892fdbcf78cba626665f6252ab81",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5f5b4d42e961a05bf6343643e923be8f2c50892fdbcf78cba626665f6252ab81.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_steel.json",
+      "size": 8643,
+      "sha256": "df9af41f806948284c2934a8cdbe0fac6a6b1f2d32a1b75623fa9cb375e7b4be",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/df9af41f806948284c2934a8cdbe0fac6a6b1f2d32a1b75623fa9cb375e7b4be.bin"
+    },
+    {
+      "path": "shops/cv_pokemon_tm_water.json",
+      "size": 13012,
+      "sha256": "564de199d8f3c4ed008e4f7ac0d911bf625350cba3424dcd110735098ae97281",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/564de199d8f3c4ed008e4f7ac0d911bf625350cba3424dcd110735098ae97281.bin"
+    },
+    {
+      "path": "shops/cv_sales_market.json",
+      "size": 2791,
+      "sha256": "c4e562d9393029fd4065f4d218a2c911b28399b58f8aeba501952aeade16d1ab",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c4e562d9393029fd4065f4d218a2c911b28399b58f8aeba501952aeade16d1ab.bin"
+    },
+    {
+      "path": "shops/cv_training_ability.json",
+      "size": 1492,
+      "sha256": "f03e3927c89cdedeacaf4dc86a849b722f4b235bfa692f74d11f17c1bb279487",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f03e3927c89cdedeacaf4dc86a849b722f4b235bfa692f74d11f17c1bb279487.bin"
+    },
+    {
+      "path": "shops/cv_training_effort.json",
+      "size": 15594,
+      "sha256": "4412c99d8648df64c4536e999181e66023f2968b53eed8e43b08d17114d056fc",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4412c99d8648df64c4536e999181e66023f2968b53eed8e43b08d17114d056fc.bin"
+    },
+    {
+      "path": "shops/cv_training_experience.json",
+      "size": 3856,
+      "sha256": "2a9eaa95464fab929e23aabc5adc80f4c74efaecdd26d675ee698816088ce183",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2a9eaa95464fab929e23aabc5adc80f4c74efaecdd26d675ee698816088ce183.bin"
+    },
+    {
+      "path": "shops/cv_training_garden.json",
+      "size": 2992,
+      "sha256": "a11c3c079e4ab05514e8ba5e03a77112403a5e631983338bf706e5f2e24247a6",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a11c3c079e4ab05514e8ba5e03a77112403a5e631983338bf706e5f2e24247a6.bin"
+    },
+    {
+      "path": "shops/cv_training_individual.json",
+      "size": 7542,
+      "sha256": "6b93706f7262e0fd68e155314a88c50f89cf3fecdf703551ec4326e080eea512",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6b93706f7262e0fd68e155314a88c50f89cf3fecdf703551ec4326e080eea512.bin"
+    },
+    {
+      "path": "shops/cv_training_nature.json",
+      "size": 18061,
+      "sha256": "19c262eee8acae054edce50b4d7c2f15840ed7a557886ee4219f27820ba79cbe",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/19c262eee8acae054edce50b4d7c2f15840ed7a557886ee4219f27820ba79cbe.bin"
+    },
+    {
+      "path": "shops/cv_village_department.json",
+      "size": 6330,
+      "sha256": "7bff046f215e41ce23f5db9d5d8fb940a51897b886681187ef0b224e22e183de",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7bff046f215e41ce23f5db9d5d8fb940a51897b886681187ef0b224e22e183de.bin"
+    },
+    {
+      "path": "shops/cvshop_agriculture.json",
+      "size": 2335,
+      "sha256": "a5cd5989a18903f0ca9f080797dfe20aab63ac6167f38a478b1db3f0711af5bb",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a5cd5989a18903f0ca9f080797dfe20aab63ac6167f38a478b1db3f0711af5bb.bin"
+    },
+    {
+      "path": "shops/cvshop_apricorn_stock.json",
+      "size": 6720,
+      "sha256": "ccddf3fab67b1ddcdb48e91e3d1afd383a3ef4594bca8e31f54f0b8b7321337b",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ccddf3fab67b1ddcdb48e91e3d1afd383a3ef4594bca8e31f54f0b8b7321337b.bin"
+    },
+    {
+      "path": "shops/cvshop_bait.json",
+      "size": 1852,
+      "sha256": "78d83112e8171b62c6da6f4f1049cd8d38fe703482abd89b6a957c0a639d596f",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/78d83112e8171b62c6da6f4f1049cd8d38fe703482abd89b6a957c0a639d596f.bin"
+    },
+    {
+      "path": "shops/cvshop_balls_stock.json",
+      "size": 7283,
+      "sha256": "90e22791b055d4d245b4c717f82ff07d09a94fcfb1ff838215907b1d722995b3",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/90e22791b055d4d245b4c717f82ff07d09a94fcfb1ff838215907b1d722995b3.bin"
+    },
+    {
+      "path": "shops/cvshop_battle.json",
+      "size": 2058,
+      "sha256": "346aca26eac27b7ab06c36d6fa7f77980ad93b128597af2b4b3e0ebf6cf72bac",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/346aca26eac27b7ab06c36d6fa7f77980ad93b128597af2b4b3e0ebf6cf72bac.bin"
+    },
+    {
+      "path": "shops/cvshop_battle_held_stock.json",
+      "size": 10675,
+      "sha256": "62614036f72265b3ae342b6205c9b7bcb8beeaf4cfc0d198f387ebb5d22b8798",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/62614036f72265b3ae342b6205c9b7bcb8beeaf4cfc0d198f387ebb5d22b8798.bin"
+    },
+    {
+      "path": "shops/cvshop_evolution_stock.json",
+      "size": 18148,
+      "sha256": "7dd6309187b7d6b5bfe3dce0fbf2bec605fc7182ff75316eacc3c58617454df1",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7dd6309187b7d6b5bfe3dce0fbf2bec605fc7182ff75316eacc3c58617454df1.bin"
+    },
+    {
+      "path": "shops/cvshop_fish_sales.json",
+      "size": 1317,
+      "sha256": "1598a60c198723deb08c94c9af4f74fe3386f7412a986a4c6703efd7a5bbda6d",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1598a60c198723deb08c94c9af4f74fe3386f7412a986a4c6703efd7a5bbda6d.bin"
+    },
+    {
+      "path": "shops/cvshop_fishing.json",
+      "size": 1658,
+      "sha256": "3fbd63d16298ad06d5aa242fae51136acff361b549499c3cc460461545e11ffe",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3fbd63d16298ad06d5aa242fae51136acff361b549499c3cc460461545e11ffe.bin"
+    },
+    {
+      "path": "shops/cvshop_misc.json",
+      "size": 1677,
+      "sha256": "c2edc3e8ad2fcae045e6aeb7a4b80c65627ba472a9cbdfbc5a8d797065bbe511",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c2edc3e8ad2fcae045e6aeb7a4b80c65627ba472a9cbdfbc5a8d797065bbe511.bin"
+    },
+    {
+      "path": "shops/cvshop_ores.json",
+      "size": 956,
+      "sha256": "f610c2ce2e9fac8378961677275d823e3b7f7b17f1c52583413cc040e8709c81",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f610c2ce2e9fac8378961677275d823e3b7f7b17f1c52583413cc040e8709c81.bin"
+    },
+    {
+      "path": "shops/cvshop_poke.json",
+      "size": 1370,
+      "sha256": "3ead96f4adeabe1293da2bb4b731ce36704569198a6004da49f5c3619b5e4daf",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3ead96f4adeabe1293da2bb4b731ce36704569198a6004da49f5c3619b5e4daf.bin"
+    },
+    {
+      "path": "shops/cvshop_pokemon.json",
+      "size": 2028,
+      "sha256": "26522618a16ac012086438a938738331963fc460f89c8e82a34425b1f4ffcdd8",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/26522618a16ac012086438a938738331963fc460f89c8e82a34425b1f4ffcdd8.bin"
+    },
+    {
+      "path": "shops/cvshop_rare_stock.json",
+      "size": 10143,
+      "sha256": "905b6639494d8fa79a15410b8f92546b4a1a2a2ca545a35a3ae4e0257fd229d0",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/905b6639494d8fa79a15410b8f92546b4a1a2a2ca545a35a3ae4e0257fd229d0.bin"
+    },
+    {
+      "path": "shops/cvshop_relic.json",
+      "size": 1545,
+      "sha256": "afe08de660947639e4acf6671d5111c2c10e69ff4756989f202afffc06a9498b",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/afe08de660947639e4acf6671d5111c2c10e69ff4756989f202afffc06a9498b.bin"
+    },
+    {
+      "path": "shops/cvshop_rods.json",
+      "size": 3028,
+      "sha256": "7d5ad67e02299fa0d15680880ce86ff671741676bc93867f1cc5d52d49993e09",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7d5ad67e02299fa0d15680880ce86ff671741676bc93867f1cc5d52d49993e09.bin"
+    },
+    {
+      "path": "shops/cvshop_seeds.json",
+      "size": 1340,
+      "sha256": "27afb407ecba4b1419e706b9ab20bf8dfb2f9b2e26e40364d6f61e9266b79613",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/27afb407ecba4b1419e706b9ab20bf8dfb2f9b2e26e40364d6f61e9266b79613.bin"
+    },
+    {
+      "path": "shops/cvshop_tm_group1.json",
+      "size": 2075,
+      "sha256": "f24471129a67fb0fbeea144afb6292dd4852d6461861bc2b9757b48174ae5599",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f24471129a67fb0fbeea144afb6292dd4852d6461861bc2b9757b48174ae5599.bin"
+    },
+    {
+      "path": "shops/cvshop_tm_group2.json",
+      "size": 2088,
+      "sha256": "4a9a7aec2785acea25c79dfd2830034a34ba4a97959bb934a0ae6ac2669ecd8a",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4a9a7aec2785acea25c79dfd2830034a34ba4a97959bb934a0ae6ac2669ecd8a.bin"
+    },
+    {
+      "path": "shops/cvshop_tm_group3.json",
+      "size": 2098,
+      "sha256": "4095b188398001043216fc2303e8700692586eda7bb1c73924375e4255f820dc",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4095b188398001043216fc2303e8700692586eda7bb1c73924375e4255f820dc.bin"
+    },
+    {
+      "path": "shops/cvshop_tm_main.json",
+      "size": 1482,
+      "sha256": "df9ef12f365e4793102e3b489ec853156ca339755a50058fc8932552c1a0559f",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/df9ef12f365e4793102e3b489ec853156ca339755a50058fc8932552c1a0559f.bin"
+    },
+    {
+      "path": "shops/cvshop_training.json",
+      "size": 3072,
+      "sha256": "e183e8f710b2031a25d39896febceca7ec5721f31aa934e82fa6e1c4472c8690",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e183e8f710b2031a25d39896febceca7ec5721f31aa934e82fa6e1c4472c8690.bin"
+    },
+    {
+      "path": "shops/cvshop_utility.json",
+      "size": 2072,
+      "sha256": "96130644cf379e68a7cbe839b664e8dd7a9ac310ec3cbc4f00e12abaec92e3d9",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/96130644cf379e68a7cbe839b664e8dd7a9ac310ec3cbc4f00e12abaec92e3d9.bin"
+    },
+    {
+      "path": "shops/life_apricorns.json",
+      "size": 3315,
+      "sha256": "5694fd2d79207d2d28f088830359a30e90de33ad35eea250c7851dd67cc41ba6",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5694fd2d79207d2d28f088830359a30e90de33ad35eea250c7851dd67cc41ba6.bin"
+    },
+    {
+      "path": "shops/life_backpacks.json",
+      "size": 7432,
+      "sha256": "e3f03201a6040eef79c95f1544d8c9b0f5fcebda9c695f7cb24715ca4f3b5236",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e3f03201a6040eef79c95f1544d8c9b0f5fcebda9c695f7cb24715ca4f3b5236.bin"
+    },
+    {
+      "path": "shops/life_boss.json",
+      "size": 2610,
+      "sha256": "b8a6e247d73bb02985af33e08c745935a30b89a98c8a3bebdc472cfbef266bf0",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b8a6e247d73bb02985af33e08c745935a30b89a98c8a3bebdc472cfbef266bf0.bin"
+    },
+    {
+      "path": "shops/life_build_colors.json",
+      "size": 22680,
+      "sha256": "2c77fefe6cb6d75518caca088d8c86c76ae4c64a2d97d85178567d71229a18ef",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2c77fefe6cb6d75518caca088d8c86c76ae4c64a2d97d85178567d71229a18ef.bin"
+    },
+    {
+      "path": "shops/life_build_details.json",
+      "size": 6334,
+      "sha256": "ed909493eff2b8a126550902ff8c238b0a439a46867266a48cedac9dacfb0404",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ed909493eff2b8a126550902ff8c238b0a439a46867266a48cedac9dacfb0404.bin"
+    },
+    {
+      "path": "shops/life_build_nature.json",
+      "size": 7482,
+      "sha256": "488728911a9728a1acbcbf00d3598b66f6d262d5b111595f5c22d2c7fc8eed6e",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/488728911a9728a1acbcbf00d3598b66f6d262d5b111595f5c22d2c7fc8eed6e.bin"
+    },
+    {
+      "path": "shops/life_build_stone.json",
+      "size": 11875,
+      "sha256": "7751f11692004945d6de62a43696f26595e1a1463998d19b10ab1b9c2c4a728b",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7751f11692004945d6de62a43696f26595e1a1463998d19b10ab1b9c2c4a728b.bin"
+    },
+    {
+      "path": "shops/life_build_wood.json",
+      "size": 9678,
+      "sha256": "fdbb4d2fd5dfe29ec56f7f5f38fbc147c71f38ea7f93d9b34080669cc44d985d",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fdbb4d2fd5dfe29ec56f7f5f38fbc147c71f38ea7f93d9b34080669cc44d985d.bin"
+    },
+    {
+      "path": "shops/life_building.json",
+      "size": 2381,
+      "sha256": "bc471b1858d00419af1e56e51b4270ac2a69d0766e6d857d27187e0d66aff09c",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bc471b1858d00419af1e56e51b4270ac2a69d0766e6d857d27187e0d66aff09c.bin"
+    },
+    {
+      "path": "shops/life_convenience.json",
+      "size": 4496,
+      "sha256": "1b2315f4d35be24f938d29f24e3c3ef5bc150db796be1d5cc992e123b2e1d6fc",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1b2315f4d35be24f938d29f24e3c3ef5bc150db796be1d5cc992e123b2e1d6fc.bin"
+    },
+    {
+      "path": "shops/life_decoration.json",
+      "size": 3857,
+      "sha256": "54a66ae522dd63f471c0dfc4e5efe36b67f3beecdc427252a9ea3867279fde39",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/54a66ae522dd63f471c0dfc4e5efe36b67f3beecdc427252a9ea3867279fde39.bin"
+    },
+    {
+      "path": "shops/life_enchant.json",
+      "size": 1610,
+      "sha256": "4b2a09aa571a802497d19b7e7f8cea2b4fbe7c2387f8b00ff53c400c5aae0367",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4b2a09aa571a802497d19b7e7f8cea2b4fbe7c2387f8b00ff53c400c5aae0367.bin"
+    },
+    {
+      "path": "shops/life_evolution.json",
+      "size": 4186,
+      "sha256": "177467a1496ec609b6c21947251e41deecbcb7a5b200b1518f990c25bc9e1652",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/177467a1496ec609b6c21947251e41deecbcb7a5b200b1518f990c25bc9e1652.bin"
+    },
+    {
+      "path": "shops/life_expedition.json",
+      "size": 3362,
+      "sha256": "80b2e582cab11929af9e8ff1ea19a22ac8c48f09a20af78f0fc2e405d5d8cef1",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/80b2e582cab11929af9e8ff1ea19a22ac8c48f09a20af78f0fc2e405d5d8cef1.bin"
+    },
+    {
+      "path": "shops/life_farm.json",
+      "size": 7719,
+      "sha256": "64a2e9150808b8e4da14375912e5b9413c19d44ae73d223d3a23b471b9f76002",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/64a2e9150808b8e4da14375912e5b9413c19d44ae73d223d3a23b471b9f76002.bin"
+    },
+    {
+      "path": "shops/life_fishing.json",
+      "size": 2353,
+      "sha256": "3ad7414126af349debaa38ccdf3bf5882711add2f11be43775c0a55074b8d8c4",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3ad7414126af349debaa38ccdf3bf5882711add2f11be43775c0a55074b8d8c4.bin"
+    },
+    {
+      "path": "shops/life_food.json",
+      "size": 971,
+      "sha256": "4ea95fd97216687cae50f98fd3250b1cf4023e62511f5e764ad4c0ecd5789180",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4ea95fd97216687cae50f98fd3250b1cf4023e62511f5e764ad4c0ecd5789180.bin"
+    },
+    {
+      "path": "shops/life_food_variety.json",
+      "size": 585,
+      "sha256": "17656bc7dfa1bc4c9274a0cf9868e81a852ab9ad797c4b2c81b9818e3c4c0373",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/17656bc7dfa1bc4c9274a0cf9868e81a852ab9ad797c4b2c81b9818e3c4c0373.bin"
+    },
+    {
+      "path": "shops/life_market.json",
+      "size": 3305,
+      "sha256": "a44ab560e8bc27f7f592095399dc08f73ddc5e4de1ec14af53bbc6579ec132ba",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a44ab560e8bc27f7f592095399dc08f73ddc5e4de1ec14af53bbc6579ec132ba.bin"
+    },
+    {
+      "path": "shops/life_medicines.json",
+      "size": 2407,
+      "sha256": "d39e84f43a509ca242a147035149f9ec1e5a19cc9b76b473da05e0ca46744b4d",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d39e84f43a509ca242a147035149f9ec1e5a19cc9b76b473da05e0ca46744b4d.bin"
+    },
+    {
+      "path": "shops/life_ores.json",
+      "size": 9235,
+      "sha256": "b4cee5f394771b4131eec5c94d7a84495fd8fa8440a967c2978eac916737d1fc",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b4cee5f394771b4131eec5c94d7a84495fd8fa8440a967c2978eac916737d1fc.bin"
+    },
+    {
+      "path": "shops/life_ranch.json",
+      "size": 3278,
+      "sha256": "46f7b7e8ed82b6d3c0827cd1200c794a26ac167731facdd96494391a1e693d13",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/46f7b7e8ed82b6d3c0827cd1200c794a26ac167731facdd96494391a1e693d13.bin"
+    },
+    {
+      "path": "shops/life_seeds.json",
+      "size": 2023,
+      "sha256": "d0d5ceab7890ce60c50332dcf92c24d943e17e3c4967decd6e94d640f4c74f3c",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d0d5ceab7890ce60c50332dcf92c24d943e17e3c4967decd6e94d640f4c74f3c.bin"
+    },
+    {
+      "path": "shops/life_storage_upgrades.json",
+      "size": 18076,
+      "sha256": "87131ee1862c2e144ddec70718301ba97102dfa249873a2ad89856cd9cf1c196",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/87131ee1862c2e144ddec70718301ba97102dfa249873a2ad89856cd9cf1c196.bin"
+    },
+    {
+      "path": "shops/life_training.json",
+      "size": 3656,
+      "sha256": "4d9e064274cfa139c9fff6c3a11ab590fff95e365e1e8b414522f62b16b3f24a",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4d9e064274cfa139c9fff6c3a11ab590fff95e365e1e8b414522f62b16b3f24a.bin"
+    },
+    {
+      "path": "shops/life_travel.json",
+      "size": 2152,
+      "sha256": "2f769bbff37c486a6b27b804703cf05a9729986bf2c4969b82a113d43940827c",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2f769bbff37c486a6b27b804703cf05a9729986bf2c4969b82a113d43940827c.bin"
+    },
+    {
+      "path": "shops/life_wilderness_materials.json",
+      "size": 8943,
+      "sha256": "cda3833b8fb375ca60f0dcc8d31ecde53da01e5c21c4b0fc3e3f40f1225dcde7",
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/cda3833b8fb375ca60f0dcc8d31ecde53da01e5c21c4b0fc3e3f40f1225dcde7.bin"
+    }
+  ]
+}

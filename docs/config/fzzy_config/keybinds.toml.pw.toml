@@ -1,0 +1,8 @@
+name = "keybinds.toml"
+filename = "keybinds.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f.bin"
+hash-format = "sha256"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"

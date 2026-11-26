@@ -1,0 +1,13 @@
+name = "COBBLEVERSE Private Server"
+author = "COBBLEVERSE private server configuration (based on LUMYVERSE pack)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b4edf6fecce3fb48f2ec6e16611edd804219daa6f08f03911589a11e59b1316e"
+
+[versions]
+minecraft = "1.21.1"
+fabric = "0.18.4"

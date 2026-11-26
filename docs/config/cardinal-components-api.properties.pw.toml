@@ -1,0 +1,8 @@
+name = "cardinal-components-api.properties"
+filename = "cardinal-components-api.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba.bin"
+hash-format = "sha256"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"

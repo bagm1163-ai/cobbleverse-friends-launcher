@@ -1,0 +1,8 @@
+name = "plushie_buddies-1.0.2.hotfix-1.21.1.jar"
+filename = "plushie_buddies-1.0.2.hotfix-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/71bea1bae3f9023497dbce4b8e6140341af4e9fadefd66e0748138f27a135c81.bin"
+hash-format = "sha256"
+hash = "71bea1bae3f9023497dbce4b8e6140341af4e9fadefd66e0748138f27a135c81"

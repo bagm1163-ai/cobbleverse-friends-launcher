@@ -1,0 +1,8 @@
+name = "notenoughcrashes.json"
+filename = "notenoughcrashes.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950.bin"
+hash-format = "sha256"
+hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"

@@ -1,0 +1,8 @@
+name = "etf_warnings.json"
+filename = "etf_warnings.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e.bin"
+hash-format = "sha256"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"

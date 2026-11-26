@@ -1,0 +1,8 @@
+name = "cherry_blossom.json"
+filename = "cherry_blossom.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452.bin"
+hash-format = "sha256"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"

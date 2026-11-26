@@ -1,0 +1,8 @@
+name = "plushies-fabric-1.5.1.jar"
+filename = "plushies-fabric-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b482d380ac78475ccb7be25b8aa24dda4204dc568eacc766d2161dc83aca47b6.bin"
+hash-format = "sha256"
+hash = "b482d380ac78475ccb7be25b8aa24dda4204dc568eacc766d2161dc83aca47b6"

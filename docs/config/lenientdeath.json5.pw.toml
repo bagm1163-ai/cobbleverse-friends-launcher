@@ -1,0 +1,8 @@
+name = "lenientdeath.json5"
+filename = "lenientdeath.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e1db0aa617729de8771c39258f2db98899cb995bf339228645e1d04741dcc95a.bin"
+hash-format = "sha256"
+hash = "e1db0aa617729de8771c39258f2db98899cb995bf339228645e1d04741dcc95a"

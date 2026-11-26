@@ -1,0 +1,8 @@
+name = "common.json5"
+filename = "common.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0a2acc593ba6a656b69ca160b930e98382e4dfe9003a11a0ebefe7804cb7e9f4.bin"
+hash-format = "sha256"
+hash = "0a2acc593ba6a656b69ca160b930e98382e4dfe9003a11a0ebefe7804cb7e9f4"

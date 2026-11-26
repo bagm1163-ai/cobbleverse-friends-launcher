@@ -1,0 +1,8 @@
+name = "continuity.json"
+filename = "continuity.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4.bin"
+hash-format = "sha256"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"

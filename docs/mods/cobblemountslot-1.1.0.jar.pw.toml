@@ -1,0 +1,8 @@
+name = "cobblemountslot-1.1.0.jar"
+filename = "cobblemountslot-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/14c3292aab3df127998cdbc08e78db39936c12c7b4d132fefd44f7295968912d.bin"
+hash-format = "sha256"
+hash = "14c3292aab3df127998cdbc08e78db39936c12c7b4d132fefd44f7295968912d"

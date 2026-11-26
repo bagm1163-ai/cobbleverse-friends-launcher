@@ -1,0 +1,8 @@
+name = "advancementdisable.toml"
+filename = "advancementdisable.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5f164f8ff9dd3e1815326fe861d2e1faf59642a5b2f036b3dee255f09e783d86.bin"
+hash-format = "sha256"
+hash = "5f164f8ff9dd3e1815326fe861d2e1faf59642a5b2f036b3dee255f09e783d86"

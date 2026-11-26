@@ -1,0 +1,8 @@
+name = "cobbleverse-ftb-quest-keys-client-1.0.0.jar"
+filename = "cobbleverse-ftb-quest-keys-client-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0048417abda5da87b6c45ed7ec5bf060cc68a25c2ed2b27836b7d2103da638f4.bin"
+hash-format = "sha256"
+hash = "0048417abda5da87b6c45ed7ec5bf060cc68a25c2ed2b27836b7d2103da638f4"

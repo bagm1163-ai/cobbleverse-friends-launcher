@@ -1,0 +1,8 @@
+name = "infinite-music-options.json"
+filename = "infinite-music-options.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/51d1c18996c71d46a3d97bac12a8ee39a978cb21a181320d9d092d312fa1fdf0.bin"
+hash-format = "sha256"
+hash = "51d1c18996c71d46a3d97bac12a8ee39a978cb21a181320d9d092d312fa1fdf0"

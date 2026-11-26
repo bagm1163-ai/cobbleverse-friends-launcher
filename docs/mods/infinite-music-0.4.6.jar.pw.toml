@@ -1,0 +1,8 @@
+name = "infinite-music-0.4.6.jar"
+filename = "infinite-music-0.4.6.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343.bin"
+hash-format = "sha256"
+hash = "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"

@@ -1,0 +1,8 @@
+name = "RegisteelTemple.png"
+filename = "RegisteelTemple.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7fde70fa5390b1cfb8e9f82b0c8844c8e07d88dec05c75b6a11927ff4621f898.bin"
+hash-format = "sha256"
+hash = "7fde70fa5390b1cfb8e9f82b0c8844c8e07d88dec05c75b6a11927ff4621f898"

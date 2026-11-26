@@ -1,0 +1,8 @@
+name = "biome_replacer.properties"
+filename = "biome_replacer.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/382c1f21cd970d8676cd442578e79368587e2eecba6087934d73600cf812a217.bin"
+hash-format = "sha256"
+hash = "382c1f21cd970d8676cd442578e79368587e2eecba6087934d73600cf812a217"

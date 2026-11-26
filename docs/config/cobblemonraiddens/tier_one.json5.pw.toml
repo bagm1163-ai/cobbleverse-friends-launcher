@@ -1,0 +1,8 @@
+name = "tier_one.json5"
+filename = "tier_one.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1e2ba2c3fc803dafc831ed8d0bcf0ff4f4dad73219ed2bf4be174e63cdcbc631.bin"
+hash-format = "sha256"
+hash = "1e2ba2c3fc803dafc831ed8d0bcf0ff4f4dad73219ed2bf4be174e63cdcbc631"

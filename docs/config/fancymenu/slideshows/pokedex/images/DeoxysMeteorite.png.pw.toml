@@ -1,0 +1,8 @@
+name = "DeoxysMeteorite.png"
+filename = "DeoxysMeteorite.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c6d9d8428efa02fcc1575dc3255dd51d39fcbd9e0bc21a587e934f80269903a8.bin"
+hash-format = "sha256"
+hash = "c6d9d8428efa02fcc1575dc3255dd51d39fcbd9e0bc21a587e934f80269903a8"

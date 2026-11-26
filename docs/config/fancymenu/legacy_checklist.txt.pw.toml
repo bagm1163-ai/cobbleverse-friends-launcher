@@ -1,0 +1,8 @@
+name = "legacy_checklist.txt"
+filename = "legacy_checklist.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0.bin"
+hash-format = "sha256"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"

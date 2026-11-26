@@ -1,0 +1,8 @@
+name = "server_e09ee951fe8251ea0950e92318c09f92f751701d.png"
+filename = "server_e09ee951fe8251ea0950e92318c09f92f751701d.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/09fcc97955745c2134583dcc8468e5d2f8951c05c59674398e6a0c4fd10064f4.bin"
+hash-format = "sha256"
+hash = "09fcc97955745c2134583dcc8468e5d2f8951c05c59674398e6a0c4fd10064f4"

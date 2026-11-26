@@ -1,0 +1,8 @@
+name = "MouseTweaks.cfg"
+filename = "MouseTweaks.cfg"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4.bin"
+hash-format = "sha256"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"

@@ -1,0 +1,8 @@
+name = "catchrate-display.json"
+filename = "catchrate-display.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/58ef6267cb77a541130f858dcb25533161b0d322bc7aaf31010e1ee18fd3af16.bin"
+hash-format = "sha256"
+hash = "58ef6267cb77a541130f858dcb25533161b0d322bc7aaf31010e1ee18fd3af16"

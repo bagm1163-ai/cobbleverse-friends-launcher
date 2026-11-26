@@ -1,0 +1,8 @@
+name = "blacklist.json5"
+filename = "blacklist.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3942833430233134123640078f9963498297ca29ad3b58caa5957de75e152846.bin"
+hash-format = "sha256"
+hash = "3942833430233134123640078f9963498297ca29ad3b58caa5957de75e152846"

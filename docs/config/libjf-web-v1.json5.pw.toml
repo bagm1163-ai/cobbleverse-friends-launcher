@@ -1,0 +1,8 @@
+name = "libjf-web-v1.json5"
+filename = "libjf-web-v1.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a3570ac89dcdefb90e242ba728e71a90e43fa0201b1de3b81f02619ebf27eda0.bin"
+hash-format = "sha256"
+hash = "a3570ac89dcdefb90e242ba728e71a90e43fa0201b1de3b81f02619ebf27eda0"

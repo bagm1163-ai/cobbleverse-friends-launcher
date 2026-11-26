@@ -1,0 +1,8 @@
+name = "servers.dat"
+filename = "servers.dat"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/befebf3a0de04b5c7be065e934dc54f3693fbaa86e2bd6dbaca46284aceb25df.bin"
+hash-format = "sha256"
+hash = "befebf3a0de04b5c7be065e934dc54f3693fbaa86e2bd6dbaca46284aceb25df"

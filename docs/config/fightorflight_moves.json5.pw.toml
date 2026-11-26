@@ -1,0 +1,8 @@
+name = "fightorflight_moves.json5"
+filename = "fightorflight_moves.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fe35c57287a691a25fc16d5ba80b894e087edb240d1a55e6f02c8ace577bba1a.bin"
+hash-format = "sha256"
+hash = "fe35c57287a691a25fc16d5ba80b894e087edb240d1a55e6f02c8ace577bba1a"

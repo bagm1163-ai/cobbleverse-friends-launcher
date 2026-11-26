@@ -1,0 +1,8 @@
+name = "NightSuicuneAurora.png"
+filename = "NightSuicuneAurora.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/43cc61c7b0612c21e761e434ad7e57029eff054b925b3b3af4404beb7beeef75.bin"
+hash-format = "sha256"
+hash = "43cc61c7b0612c21e761e434ad7e57029eff054b925b3b3af4404beb7beeef75"

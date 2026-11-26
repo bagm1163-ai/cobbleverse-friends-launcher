@@ -1,0 +1,8 @@
+name = "RidingTorterraTogether.png"
+filename = "RidingTorterraTogether.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4fa32f7ad5532b9a5be31a957591a95af164b54a48e5861d93180c6561b1e2e5.bin"
+hash-format = "sha256"
+hash = "4fa32f7ad5532b9a5be31a957591a95af164b54a48e5861d93180c6561b1e2e5"

@@ -1,0 +1,8 @@
+name = "c2me.toml"
+filename = "c2me.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3b29c732fba4b60bc87639520cd0ec7fd85facd43873de0419b188ecc48d7cc5.bin"
+hash-format = "sha256"
+hash = "3b29c732fba4b60bc87639520cd0ec7fd85facd43873de0419b188ecc48d7cc5"

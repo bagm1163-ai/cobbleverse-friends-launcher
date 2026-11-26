@@ -1,0 +1,8 @@
+name = "spooky_season.json"
+filename = "spooky_season.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd.bin"
+hash-format = "sha256"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"

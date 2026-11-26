@@ -1,0 +1,8 @@
+name = "betterthirdperson.json5"
+filename = "betterthirdperson.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7919d67c1cbb1f36ab67db0d26a1f9bfc35cde25645e3ae21510d945d5bc864a.bin"
+hash-format = "sha256"
+hash = "7919d67c1cbb1f36ab67db0d26a1f9bfc35cde25645e3ae21510d945d5bc864a"

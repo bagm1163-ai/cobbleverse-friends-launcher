@@ -1,0 +1,8 @@
+name = "COBBLEVERSE-NaturesCompass-1.21.1-2.6.0-fabric-ko.jar"
+filename = "COBBLEVERSE-NaturesCompass-1.21.1-2.6.0-fabric-ko.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fc43d6e31ced62a108d2eb52ae81880f0978ddb6d9b60a10f4566d411a7b81b8.bin"
+hash-format = "sha256"
+hash = "fc43d6e31ced62a108d2eb52ae81880f0978ddb6d9b60a10f4566d411a7b81b8"

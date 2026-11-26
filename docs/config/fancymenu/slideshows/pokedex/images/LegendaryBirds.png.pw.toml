@@ -1,0 +1,8 @@
+name = "LegendaryBirds.png"
+filename = "LegendaryBirds.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e22920ff455073d4d531313203fd16da99e58e636c856bc9414f063c3c6f2b5f.bin"
+hash-format = "sha256"
+hash = "e22920ff455073d4d531313203fd16da99e58e636c856bc9414f063c3c6f2b5f"

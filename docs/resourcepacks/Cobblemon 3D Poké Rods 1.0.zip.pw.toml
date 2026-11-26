@@ -1,0 +1,8 @@
+name = "Cobblemon 3D Poké Rods 1.0.zip"
+filename = "Cobblemon 3D Poké Rods 1.0.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c93e9c866658bb752976c44414ca0e04fa90246060f114a183599abe1de4ca9e.bin"
+hash-format = "sha256"
+hash = "c93e9c866658bb752976c44414ca0e04fa90246060f114a183599abe1de4ca9e"

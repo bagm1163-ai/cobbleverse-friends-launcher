@@ -1,0 +1,8 @@
+name = "COBBLEVERSE-Menu-Art-1.0.0.jar"
+filename = "COBBLEVERSE-Menu-Art-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/10a2b4d862a2bb7ef16e2bbeb03fd473e6bdfb09c55ffdda2d8fe8397835f5fc.bin"
+hash-format = "sha256"
+hash = "10a2b4d862a2bb7ef16e2bbeb03fd473e6bdfb09c55ffdda2d8fe8397835f5fc"

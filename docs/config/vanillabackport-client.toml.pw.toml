@@ -1,0 +1,8 @@
+name = "vanillabackport-client.toml"
+filename = "vanillabackport-client.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/dbb3dddcd72f1891a2b7d06b029bc4c045d47b88af084058a937d079a0cec483.bin"
+hash-format = "sha256"
+hash = "dbb3dddcd72f1891a2b7d06b029bc4c045d47b88af084058a937d079a0cec483"

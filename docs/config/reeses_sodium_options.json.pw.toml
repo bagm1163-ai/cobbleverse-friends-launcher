@@ -1,0 +1,8 @@
+name = "reeses_sodium_options.json"
+filename = "reeses_sodium_options.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1220e4b94bc4a9dc47b652560977e510af0e7b876627bb29c3c609515fabfc00.bin"
+hash-format = "sha256"
+hash = "1220e4b94bc4a9dc47b652560977e510af0e7b876627bb29c3c609515fabfc00"

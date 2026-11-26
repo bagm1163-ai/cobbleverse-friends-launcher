@@ -1,0 +1,8 @@
+name = "open-parties-and-claims-fabric-1.21.1-0.33.0.jar"
+filename = "open-parties-and-claims-fabric-1.21.1-0.33.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3035a8d59e537db9beb7ca2f3a3d0e4e43e4561e01e40d59ae694334b9ad6d42.bin"
+hash-format = "sha256"
+hash = "3035a8d59e537db9beb7ca2f3a3d0e4e43e4561e01e40d59ae694334b9ad6d42"

@@ -1,0 +1,8 @@
+name = "HouseFurnitures.png"
+filename = "HouseFurnitures.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e9fcf2702f3531f013ffdde6028bbfa6a1c7fb347c4248f838b3767ac35aed27.bin"
+hash-format = "sha256"
+hash = "e9fcf2702f3531f013ffdde6028bbfa6a1c7fb347c4248f838b3767ac35aed27"

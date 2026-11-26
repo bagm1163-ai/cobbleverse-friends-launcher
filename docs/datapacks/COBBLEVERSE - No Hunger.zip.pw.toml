@@ -1,0 +1,8 @@
+name = "COBBLEVERSE - No Hunger.zip"
+filename = "COBBLEVERSE - No Hunger.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/06de5f7ad7bd863cd6920334372053468a45c831eedb5b7991ac7a732efc6e8d.bin"
+hash-format = "sha256"
+hash = "06de5f7ad7bd863cd6920334372053468a45c831eedb5b7991ac7a732efc6e8d"

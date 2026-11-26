@@ -1,0 +1,8 @@
+name = "cobblemon-vitamin-tweaks-1.0.0.jar"
+filename = "cobblemon-vitamin-tweaks-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1dbe61f10958763bc0fd45289076f222890273245226a15b27503250a1a70fd0.bin"
+hash-format = "sha256"
+hash = "1dbe61f10958763bc0fd45289076f222890273245226a15b27503250a1a70fd0"

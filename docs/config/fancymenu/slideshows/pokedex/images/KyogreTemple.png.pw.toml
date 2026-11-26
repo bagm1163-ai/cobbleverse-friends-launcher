@@ -1,0 +1,8 @@
+name = "KyogreTemple.png"
+filename = "KyogreTemple.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bf9d343531a2066c300f26268acfc0d13e72c34f5d34b8ce9e61ee781d75cf46.bin"
+hash-format = "sha256"
+hash = "bf9d343531a2066c300f26268acfc0d13e72c34f5d34b8ce9e61ee781d75cf46"

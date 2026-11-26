@@ -1,0 +1,8 @@
+name = "last_world.fmdata"
+filename = "last_world.fmdata"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2d63ecd99aea2480a4a36578577fd9037a8fdfd1b42a0cc8346a11e30135d956.bin"
+hash-format = "sha256"
+hash = "2d63ecd99aea2480a4a36578577fd9037a8fdfd1b42a0cc8346a11e30135d956"

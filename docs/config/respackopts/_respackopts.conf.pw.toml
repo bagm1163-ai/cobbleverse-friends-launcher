@@ -1,0 +1,8 @@
+name = "_respackopts.conf"
+filename = "_respackopts.conf"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b7b392f5d311b91865ee4bef1e44e85d6cc2d5807728a5b34bb5ab77e85aa879.bin"
+hash-format = "sha256"
+hash = "b7b392f5d311b91865ee4bef1e44e85d6cc2d5807728a5b34bb5ab77e85aa879"

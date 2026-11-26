@@ -1,0 +1,8 @@
+name = "NecrozmaTowers.png"
+filename = "NecrozmaTowers.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f0d895c0b779fe211f457fb0bf57f9bb7ab90e8eeb2716d4ff68e4f53ff423a2.bin"
+hash-format = "sha256"
+hash = "f0d895c0b779fe211f457fb0bf57f9bb7ab90e8eeb2716d4ff68e4f53ff423a2"

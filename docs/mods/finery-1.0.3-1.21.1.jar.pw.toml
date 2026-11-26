@@ -1,0 +1,8 @@
+name = "finery-1.0.3-1.21.1.jar"
+filename = "finery-1.0.3-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/9525/21/finery-1.0.3-1.21.1.jar"
+hash-format = "sha256"
+hash = "acd7db3431749d9d4c578f49c9a90ed3db15f17c4b7b0209827c427771a8defb"

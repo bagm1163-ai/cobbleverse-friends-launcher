@@ -1,0 +1,8 @@
+name = "SinnohLeague.png"
+filename = "SinnohLeague.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6ce3fb5b0262df8fb4e002bb564ba25d41248a8cd365529ac948b0458b63cadd.bin"
+hash-format = "sha256"
+hash = "6ce3fb5b0262df8fb4e002bb564ba25d41248a8cd365529ac948b0458b63cadd"

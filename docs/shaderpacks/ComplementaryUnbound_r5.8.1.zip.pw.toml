@@ -1,0 +1,8 @@
+name = "ComplementaryUnbound_r5.8.1.zip"
+filename = "ComplementaryUnbound_r5.8.1.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965.bin"
+hash-format = "sha256"
+hash = "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"

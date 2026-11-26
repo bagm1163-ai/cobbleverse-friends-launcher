@@ -1,0 +1,8 @@
+name = "entity_model_features.json"
+filename = "entity_model_features.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/24b96b44263a5b8db218d02fe26038619946367041d78d7a8637010e703cd868.bin"
+hash-format = "sha256"
+hash = "24b96b44263a5b8db218d02fe26038619946367041d78d7a8637010e703cd868"

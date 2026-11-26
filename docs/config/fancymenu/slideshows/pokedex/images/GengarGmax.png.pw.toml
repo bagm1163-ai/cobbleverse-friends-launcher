@@ -1,0 +1,8 @@
+name = "GengarGmax.png"
+filename = "GengarGmax.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8ebf920aa55590f3278a5c115c247d14901d73ced90360d457d705bc31f6409d.bin"
+hash-format = "sha256"
+hash = "8ebf920aa55590f3278a5c115c247d14901d73ced90360d457d705bc31f6409d"

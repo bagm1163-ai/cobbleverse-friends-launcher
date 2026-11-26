@@ -1,0 +1,8 @@
+name = "Cobbreeding-fabric-2.2.2.jar"
+filename = "Cobbreeding-fabric-2.2.2.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6ef5d451535a5066ada4676d1782664f167cef9f0f7b8fcbc41471934a0a47db.bin"
+hash-format = "sha256"
+hash = "6ef5d451535a5066ada4676d1782664f167cef9f0f7b8fcbc41471934a0a47db"

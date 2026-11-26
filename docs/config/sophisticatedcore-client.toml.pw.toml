@@ -1,0 +1,8 @@
+name = "sophisticatedcore-client.toml"
+filename = "sophisticatedcore-client.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e.bin"
+hash-format = "sha256"
+hash = "c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e"

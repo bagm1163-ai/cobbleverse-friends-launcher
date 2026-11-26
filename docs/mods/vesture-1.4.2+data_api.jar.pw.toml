@@ -1,0 +1,8 @@
+name = "vesture-1.4.2+data_api.jar"
+filename = "vesture-1.4.2+data_api.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7665/43/vesture-1.4.2%2bdata_api.jar"
+hash-format = "sha256"
+hash = "4a674d826f9162dfd7dd88dc616f42dcdee89fd9e3e0181ea93e56eb92dacfb8"

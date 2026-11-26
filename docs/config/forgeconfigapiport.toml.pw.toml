@@ -1,0 +1,8 @@
+name = "forgeconfigapiport.toml"
+filename = "forgeconfigapiport.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/aa7820e54c267335b6c9d1b3e674e92d586a155ce6e8b151c2255eda8cb09155.bin"
+hash-format = "sha256"
+hash = "aa7820e54c267335b6c9d1b3e674e92d586a155ce6e8b151c2255eda8cb09155"

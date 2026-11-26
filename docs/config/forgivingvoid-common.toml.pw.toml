@@ -1,0 +1,8 @@
+name = "forgivingvoid-common.toml"
+filename = "forgivingvoid-common.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/7ec83d301212b45b8abd5bdf0ca5a2404bdb8fb6f5c57796af9f10381a2938a1.bin"
+hash-format = "sha256"
+hash = "7ec83d301212b45b8abd5bdf0ca5a2404bdb8fb6f5c57796af9f10381a2938a1"

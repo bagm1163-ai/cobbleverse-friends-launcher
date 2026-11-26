@@ -1,0 +1,8 @@
+name = "rctmod-client.toml"
+filename = "rctmod-client.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d3d43d652761b58b32d76003afb1ea065c76e9854beee93cd07182891d5474de.bin"
+hash-format = "sha256"
+hash = "d3d43d652761b58b32d76003afb1ea065c76e9854beee93cd07182891d5474de"

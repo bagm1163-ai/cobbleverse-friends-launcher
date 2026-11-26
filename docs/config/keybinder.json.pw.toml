@@ -1,0 +1,8 @@
+name = "keybinder.json"
+filename = "keybinder.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ae41c5561731be5f08d809548e8eea5ad20f7113185ddc0f3c7cd5c3f23e2eeb.bin"
+hash-format = "sha256"
+hash = "ae41c5561731be5f08d809548e8eea5ad20f7113185ddc0f3c7cd5c3f23e2eeb"

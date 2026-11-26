@@ -1,0 +1,8 @@
+name = "modmenu.json"
+filename = "modmenu.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/cc8edd6c6db571ff7e4505709931791b564aa91c571486c74e01e18ac94cb822.bin"
+hash-format = "sha256"
+hash = "cc8edd6c6db571ff7e4505709931791b564aa91c571486c74e01e18ac94cb822"

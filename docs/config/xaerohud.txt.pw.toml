@@ -1,0 +1,8 @@
+name = "xaerohud.txt"
+filename = "xaerohud.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/82425b47637de93c5241e562b40316d3390686386e5c4597a81726cbbe5f259c.bin"
+hash-format = "sha256"
+hash = "82425b47637de93c5241e562b40316d3390686386e5c4597a81726cbbe5f259c"

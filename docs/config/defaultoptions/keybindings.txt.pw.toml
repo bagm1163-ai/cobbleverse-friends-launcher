@@ -1,0 +1,8 @@
+name = "keybindings.txt"
+filename = "keybindings.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d9e9a6b68a9e4e6a98bd8e42d2e023490de77688de1a9034de2ea24a17472e59.bin"
+hash-format = "sha256"
+hash = "d9e9a6b68a9e4e6a98bd8e42d2e023490de77688de1a9034de2ea24a17472e59"

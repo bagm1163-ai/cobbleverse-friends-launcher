@@ -1,0 +1,8 @@
+name = "waystones-common.toml"
+filename = "waystones-common.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e0a1c0a4f8168979daab26eb45a53355361deba89cba018eb12bb2a63b73103f.bin"
+hash-format = "sha256"
+hash = "e0a1c0a4f8168979daab26eb45a53355361deba89cba018eb12bb2a63b73103f"

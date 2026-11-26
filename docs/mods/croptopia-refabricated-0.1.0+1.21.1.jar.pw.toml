@@ -1,0 +1,8 @@
+name = "croptopia-refabricated-0.1.0+1.21.1.jar"
+filename = "croptopia-refabricated-0.1.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d88f7f6c4cedda6265c242cbb7f75823776ae44007805032452f257d59119872.bin"
+hash-format = "sha256"
+hash = "d88f7f6c4cedda6265c242cbb7f75823776ae44007805032452f257d59119872"

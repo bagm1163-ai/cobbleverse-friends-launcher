@@ -1,0 +1,8 @@
+name = "zfastnoise.mixin.properties"
+filename = "zfastnoise.mixin.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b478691dede2f633f13356729508c87919e7a07c9e9943a29fd0ad0196a46b52.bin"
+hash-format = "sha256"
+hash = "b478691dede2f633f13356729508c87919e7a07c9e9943a29fd0ad0196a46b52"

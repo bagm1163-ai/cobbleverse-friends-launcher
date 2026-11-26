@@ -1,0 +1,8 @@
+name = "PokeMart.png"
+filename = "PokeMart.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/196f73c361eb85fbafce2bb71b6d793bd6021c3ff79cec94531ec8d2bb20f358.bin"
+hash-format = "sha256"
+hash = "196f73c361eb85fbafce2bb71b6d793bd6021c3ff79cec94531ec8d2bb20f358"

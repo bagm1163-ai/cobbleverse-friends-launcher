@@ -1,0 +1,8 @@
+name = "interactic.json5"
+filename = "interactic.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/edcc1cd8f23f7ec6bd376b74e75fa8675798504035f6caf4b07adfe0c62d10db.bin"
+hash-format = "sha256"
+hash = "edcc1cd8f23f7ec6bd376b74e75fa8675798504035f6caf4b07adfe0c62d10db"

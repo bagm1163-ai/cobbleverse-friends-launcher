@@ -1,0 +1,8 @@
+name = "soundphysics.properties"
+filename = "soundphysics.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d.bin"
+hash-format = "sha256"
+hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"

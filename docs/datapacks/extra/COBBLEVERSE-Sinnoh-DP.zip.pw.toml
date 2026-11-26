@@ -1,0 +1,8 @@
+name = "COBBLEVERSE-Sinnoh-DP.zip"
+filename = "COBBLEVERSE-Sinnoh-DP.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b2e93ad20f27e96af87f589b8a9653c2f8ce7ed661adf412ba002d0ffec6cc32.bin"
+hash-format = "sha256"
+hash = "b2e93ad20f27e96af87f589b8a9653c2f8ce7ed661adf412ba002d0ffec6cc32"

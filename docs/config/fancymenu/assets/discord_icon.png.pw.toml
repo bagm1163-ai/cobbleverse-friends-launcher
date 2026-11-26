@@ -1,0 +1,8 @@
+name = "discord_icon.png"
+filename = "discord_icon.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e5e8aaaf600204808454d6f203e40162fcf1febe4789a923dceb4fd72e0d5d19.bin"
+hash-format = "sha256"
+hash = "e5e8aaaf600204808454d6f203e40162fcf1febe4789a923dceb4fd72e0d5d19"

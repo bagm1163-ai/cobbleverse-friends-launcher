@@ -1,0 +1,8 @@
+name = "mcw-furniture-3.4.1-mc1.21.1fabric.jar"
+filename = "mcw-furniture-3.4.1-mc1.21.1fabric.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95.bin"
+hash-format = "sha256"
+hash = "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95"

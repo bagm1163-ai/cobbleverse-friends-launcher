@@ -1,0 +1,8 @@
+name = "sorted-fabric-0.1.46+1.21.1.jar"
+filename = "sorted-fabric-0.1.46+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vtsGVHan/versions/SGSJmuhl/sorted-fabric-0.1.46%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "6c36b60e5b0e86360f80026ec5109fd802bec2bcbe398ebe60461d0ccc853d4c"

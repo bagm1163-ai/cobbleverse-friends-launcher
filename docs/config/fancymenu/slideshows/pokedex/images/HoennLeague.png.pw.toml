@@ -1,0 +1,8 @@
+name = "HoennLeague.png"
+filename = "HoennLeague.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8a1ae806f29b80423a868b9b92fd724377edfc6b364b842908870622e946d58a.bin"
+hash-format = "sha256"
+hash = "8a1ae806f29b80423a868b9b92fd724377edfc6b364b842908870622e946d58a"

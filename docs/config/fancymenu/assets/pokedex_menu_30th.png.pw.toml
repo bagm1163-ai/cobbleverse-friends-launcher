@@ -1,0 +1,8 @@
+name = "pokedex_menu_30th.png"
+filename = "pokedex_menu_30th.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/be74d2f3ff1eda85001897b8c62e728dce3009d985d4408e5fa1cd77e70a90d8.bin"
+hash-format = "sha256"
+hash = "be74d2f3ff1eda85001897b8c62e728dce3009d985d4408e5fa1cd77e70a90d8"

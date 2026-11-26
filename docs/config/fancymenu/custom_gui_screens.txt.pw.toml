@@ -1,0 +1,8 @@
+name = "custom_gui_screens.txt"
+filename = "custom_gui_screens.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/27422fbddb9a4436af370cba7645f4e32b7f9b9252581842b782d92a9309c93d.bin"
+hash-format = "sha256"
+hash = "27422fbddb9a4436af370cba7645f4e32b7f9b9252581842b782d92a9309c93d"

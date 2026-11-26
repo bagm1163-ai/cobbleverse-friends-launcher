@@ -1,0 +1,8 @@
+name = "packetfixer.properties"
+filename = "packetfixer.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/f22643ce6df8a926427d24a5c6e4dd7684d1eee27b10f9be3e3491a90e9d2c9f.bin"
+hash-format = "sha256"
+hash = "f22643ce6df8a926427d24a5c6e4dd7684d1eee27b10f9be3e3491a90e9d2c9f"

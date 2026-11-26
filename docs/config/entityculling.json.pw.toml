@@ -1,0 +1,8 @@
+name = "entityculling.json"
+filename = "entityculling.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5e248d194b74876d9860f122637430a837bf41bd2770c66630daff389db511d5.bin"
+hash-format = "sha256"
+hash = "5e248d194b74876d9860f122637430a837bf41bd2770c66630daff389db511d5"

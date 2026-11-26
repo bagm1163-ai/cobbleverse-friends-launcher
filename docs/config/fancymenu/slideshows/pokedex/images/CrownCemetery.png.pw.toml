@@ -1,0 +1,8 @@
+name = "CrownCemetery.png"
+filename = "CrownCemetery.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/66970d090be713bdc89944c44a27731f84033deb6eda4b01982232957296d9a0.bin"
+hash-format = "sha256"
+hash = "66970d090be713bdc89944c44a27731f84033deb6eda4b01982232957296d9a0"

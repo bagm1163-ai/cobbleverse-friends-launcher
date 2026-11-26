@@ -1,0 +1,8 @@
+name = "KantoCartographer.png"
+filename = "KantoCartographer.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b6816c1a512ad611b032ac97d2881162a8e8a2665111be6af6b76de417cd34d1.bin"
+hash-format = "sha256"
+hash = "b6816c1a512ad611b032ac97d2881162a8e8a2665111be6af6b76de417cd34d1"

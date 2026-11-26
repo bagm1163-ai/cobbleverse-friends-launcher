@@ -1,0 +1,8 @@
+name = "koreanpatch-fabric-1.8.2+mc1.21.jar"
+filename = "koreanpatch-fabric-1.8.2+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/aede7e9ad17f6f3181894319237f7caf49cae2e884a017d7636752ddb91894b4.bin"
+hash-format = "sha256"
+hash = "aede7e9ad17f6f3181894319237f7caf49cae2e884a017d7636752ddb91894b4"

@@ -1,0 +1,8 @@
+name = "particular-common.toml"
+filename = "particular-common.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/8edeeced2c3f6e492122017f30f3a127fdc54c48583f5e3b1d1f45ced82ed95f.bin"
+hash-format = "sha256"
+hash = "8edeeced2c3f6e492122017f30f3a127fdc54c48583f5e3b1d1f45ced82ed95f"

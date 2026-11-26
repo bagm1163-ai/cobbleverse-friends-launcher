@@ -1,0 +1,8 @@
+name = "particle_core_disabled_optimizations_v2.json"
+filename = "particle_core_disabled_optimizations_v2.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/b7bc203723d72ea4be656397987c2994ead752d99677f003a8d2fd077f4a2e2a.bin"
+hash-format = "sha256"
+hash = "b7bc203723d72ea4be656397987c2994ead752d99677f003a8d2fd077f4a2e2a"

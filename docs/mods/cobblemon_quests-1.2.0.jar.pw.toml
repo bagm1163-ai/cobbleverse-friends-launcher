@@ -1,0 +1,8 @@
+name = "cobblemon_quests-1.2.0.jar"
+filename = "cobblemon_quests-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/2d6321bf24532d036a261b1ad06eb386a931354446453e66ebac7a0a5dbc7d0d.bin"
+hash-format = "sha256"
+hash = "2d6321bf24532d036a261b1ad06eb386a931354446453e66ebac7a0a5dbc7d0d"

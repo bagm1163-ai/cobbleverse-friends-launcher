@@ -1,0 +1,8 @@
+name = "reflectivity.properties"
+filename = "reflectivity.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a.bin"
+hash-format = "sha256"
+hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"

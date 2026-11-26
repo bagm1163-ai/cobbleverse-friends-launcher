@@ -1,0 +1,8 @@
+name = "safepastures.json"
+filename = "safepastures.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fb5fcf1bbb70197d1548e68c009b5e964265e7d76e4a15ff2182e32c94491fbf.bin"
+hash-format = "sha256"
+hash = "fb5fcf1bbb70197d1548e68c009b5e964265e7d76e4a15ff2182e32c94491fbf"

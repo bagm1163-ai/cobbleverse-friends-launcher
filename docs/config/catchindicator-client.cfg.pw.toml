@@ -1,0 +1,8 @@
+name = "catchindicator-client.cfg"
+filename = "catchindicator-client.cfg"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/062df5777b0a019bea0e50ba53042d5181a41672108562af44706e0b657dc151.bin"
+hash-format = "sha256"
+hash = "062df5777b0a019bea0e50ba53042d5181a41672108562af44706e0b657dc151"

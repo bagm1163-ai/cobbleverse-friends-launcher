@@ -1,0 +1,8 @@
+name = "sound_rates.properties"
+filename = "sound_rates.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/27e729c67d602567c721502a8f25d4d7482a72bd18fec35cb64d7c6710b4ba52.bin"
+hash-format = "sha256"
+hash = "27e729c67d602567c721502a8f25d4d7482a72bd18fec35cb64d7c6710b4ba52"

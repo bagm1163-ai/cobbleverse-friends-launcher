@@ -1,0 +1,8 @@
+name = "soundsbegone-fabric-1.5.2+mc1.21.jar"
+filename = "soundsbegone-fabric-1.5.2+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8312/695/soundsbegone-fabric-1.5.2%2bmc1.21.jar"
+hash-format = "sha256"
+hash = "88a0dd266a5639e89c33c9320685c57d482641738f9bc5b6e6800c3c34b80b32"

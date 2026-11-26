@@ -1,0 +1,8 @@
+name = "Cobblemon Interface Modded v1.9.4.zip.rpo"
+filename = "Cobblemon Interface Modded v1.9.4.zip.rpo"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a.bin"
+hash-format = "sha256"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"

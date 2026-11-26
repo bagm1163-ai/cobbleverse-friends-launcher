@@ -1,0 +1,8 @@
+name = "xaeroworldmap-fabric-1.21.1-1.47.0.jar"
+filename = "xaeroworldmap-fabric-1.21.1-1.47.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3e8211e02681f8bc17e1a066b3fcffddfa969cff03f48a5400016f587ba5f8f2.bin"
+hash-format = "sha256"
+hash = "3e8211e02681f8bc17e1a066b3fcffddfa969cff03f48a5400016f587ba5f8f2"

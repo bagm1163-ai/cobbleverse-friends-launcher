@@ -1,0 +1,8 @@
+name = "simplehats.json"
+filename = "simplehats.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc.bin"
+hash-format = "sha256"
+hash = "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc"

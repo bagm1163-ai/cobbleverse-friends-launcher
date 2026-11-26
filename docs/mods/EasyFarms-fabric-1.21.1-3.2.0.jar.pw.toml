@@ -1,0 +1,8 @@
+name = "EasyFarms-fabric-1.21.1-3.2.0.jar"
+filename = "EasyFarms-fabric-1.21.1-3.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VOGa2FPz/versions/KbRDGvFH/EasyFarms-fabric-1.21.1-3.2.0.jar"
+hash-format = "sha256"
+hash = "acfc0e4f037e42e609aefdf9c78a6066eac6861f3f3d289786415d8982e9e180"

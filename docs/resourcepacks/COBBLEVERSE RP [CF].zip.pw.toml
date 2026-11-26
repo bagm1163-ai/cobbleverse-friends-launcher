@@ -1,0 +1,8 @@
+name = "COBBLEVERSE RP [CF].zip"
+filename = "COBBLEVERSE RP [CF].zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/21f6a972828361d8276639d54cc1ea52db2d2d1b3a6fa13e45bea3be07c88f56.bin"
+hash-format = "sha256"
+hash = "21f6a972828361d8276639d54cc1ea52db2d2d1b3a6fa13e45bea3be07c88f56"

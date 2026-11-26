@@ -1,0 +1,8 @@
+name = "cobbleverse-ui-skin-1.0.0.jar"
+filename = "cobbleverse-ui-skin-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d9c840bb9994d5f480dbfc0836b2911ad1543b201ca6badefb06cd68cbc2b2de.bin"
+hash-format = "sha256"
+hash = "d9c840bb9994d5f480dbfc0836b2911ad1543b201ca6badefb06cd68cbc2b2de"

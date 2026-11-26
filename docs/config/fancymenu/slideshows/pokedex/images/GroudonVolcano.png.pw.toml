@@ -1,0 +1,8 @@
+name = "GroudonVolcano.png"
+filename = "GroudonVolcano.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e55cee53ca04844b601788e15205be5b8e62e54d8a12efc0b4aa995525e96958.bin"
+hash-format = "sha256"
+hash = "e55cee53ca04844b601788e15205be5b8e62e54d8a12efc0b4aa995525e96958"

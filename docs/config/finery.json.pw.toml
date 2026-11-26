@@ -1,0 +1,8 @@
+name = "finery.json"
+filename = "finery.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/15526ce3d76a8bd68a4395d99d354c031cb364dc1fbbfdf664fb2a7692a89b32.bin"
+hash-format = "sha256"
+hash = "15526ce3d76a8bd68a4395d99d354c031cb364dc1fbbfdf664fb2a7692a89b32"

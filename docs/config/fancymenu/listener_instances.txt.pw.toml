@@ -1,0 +1,8 @@
+name = "listener_instances.txt"
+filename = "listener_instances.txt"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/5e2fd83603a75192a4b87bb127513b0a5baa2b3be6b2d554300a6f0c156876b3.bin"
+hash-format = "sha256"
+hash = "5e2fd83603a75192a4b87bb127513b0a5baa2b3be6b2d554300a6f0c156876b3"

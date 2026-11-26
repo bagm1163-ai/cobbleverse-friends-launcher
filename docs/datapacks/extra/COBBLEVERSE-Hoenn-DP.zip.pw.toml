@@ -1,0 +1,8 @@
+name = "COBBLEVERSE-Hoenn-DP.zip"
+filename = "COBBLEVERSE-Hoenn-DP.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/68a1d6f49353eb75d970aaef03dbdba8eafe163d2259d45313c2430f8497817b.bin"
+hash-format = "sha256"
+hash = "68a1d6f49353eb75d970aaef03dbdba8eafe163d2259d45313c2430f8497817b"

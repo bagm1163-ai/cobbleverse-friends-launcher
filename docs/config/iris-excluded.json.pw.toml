@@ -1,0 +1,8 @@
+name = "iris-excluded.json"
+filename = "iris-excluded.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb.bin"
+hash-format = "sha256"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"

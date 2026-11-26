@@ -1,0 +1,8 @@
+name = "pt_br.local"
+filename = "pt_br.local"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c.bin"
+hash-format = "sha256"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"

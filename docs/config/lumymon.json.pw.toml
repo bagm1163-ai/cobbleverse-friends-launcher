@@ -1,0 +1,8 @@
+name = "lumymon.json"
+filename = "lumymon.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3b14c98314b5dc129b3025647ab220015509bc78757587d1af149535e6bd1c55.bin"
+hash-format = "sha256"
+hash = "3b14c98314b5dc129b3025647ab220015509bc78757587d1af149535e6bd1c55"

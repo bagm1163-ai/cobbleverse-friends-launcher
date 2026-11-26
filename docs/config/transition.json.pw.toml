@@ -1,0 +1,8 @@
+name = "transition.json"
+filename = "transition.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c.bin"
+hash-format = "sha256"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"

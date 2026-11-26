@@ -1,0 +1,8 @@
+name = "resourcepackoverrides.json"
+filename = "resourcepackoverrides.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/51edd44f1c8fa48b49013f09ba292642312e19250da21925e6c4a377e44fcb51.bin"
+hash-format = "sha256"
+hash = "51edd44f1c8fa48b49013f09ba292642312e19250da21925e6c4a377e44fcb51"

@@ -1,0 +1,8 @@
+name = "latias_latios_background.png"
+filename = "latias_latios_background.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e70fd43f60909e24e45bc22305f80b159a61ef8ba7f392afe418677014005565.bin"
+hash-format = "sha256"
+hash = "e70fd43f60909e24e45bc22305f80b159a61ef8ba7f392afe418677014005565"

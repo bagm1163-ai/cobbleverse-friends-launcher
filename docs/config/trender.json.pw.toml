@@ -1,0 +1,8 @@
+name = "trender.json"
+filename = "trender.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124.bin"
+hash-format = "sha256"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"

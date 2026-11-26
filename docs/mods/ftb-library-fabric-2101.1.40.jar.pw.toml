@@ -1,0 +1,8 @@
+name = "ftb-library-fabric-2101.1.40.jar"
+filename = "ftb-library-fabric-2101.1.40.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/fce27d7d5ed93c2702fd024e46f216f0fc9ab51aa67b9994d2a2ed919528bc37.bin"
+hash-format = "sha256"
+hash = "fce27d7d5ed93c2702fd024e46f216f0fc9ab51aa67b9994d2a2ed919528bc37"

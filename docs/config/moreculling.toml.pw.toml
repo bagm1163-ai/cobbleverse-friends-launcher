@@ -1,0 +1,8 @@
+name = "moreculling.toml"
+filename = "moreculling.toml"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/cb22f932d98a660d1c1b80324977923c681638357efcfa4f172bc363557cca2c.bin"
+hash-format = "sha256"
+hash = "cb22f932d98a660d1c1b80324977923c681638357efcfa4f172bc363557cca2c"

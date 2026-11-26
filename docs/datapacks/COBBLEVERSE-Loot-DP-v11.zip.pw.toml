@@ -1,0 +1,8 @@
+name = "COBBLEVERSE-Loot-DP-v11.zip"
+filename = "COBBLEVERSE-Loot-DP-v11.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/68b07910f68d032cb12902115938c321c326819d85d60cc64c9f42e08be11e99.bin"
+hash-format = "sha256"
+hash = "68b07910f68d032cb12902115938c321c326819d85d60cc64c9f42e08be11e99"

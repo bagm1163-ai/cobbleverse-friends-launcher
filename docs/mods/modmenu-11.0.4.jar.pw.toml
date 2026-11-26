@@ -1,0 +1,8 @@
+name = "modmenu-11.0.4.jar"
+filename = "modmenu-11.0.4.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7808/443/modmenu-11.0.4.jar"
+hash-format = "sha256"
+hash = "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3"

@@ -1,0 +1,8 @@
+name = "libjf-translate-v1.json5"
+filename = "libjf-translate-v1.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/ee06e87a5b40f4449f452c73c1cbe005101bd8361ef78dd0469371e7e168217f.bin"
+hash-format = "sha256"
+hash = "ee06e87a5b40f4449f452c73c1cbe005101bd8361ef78dd0469371e7e168217f"

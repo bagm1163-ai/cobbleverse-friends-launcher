@@ -1,0 +1,8 @@
+name = "slideshow_frame.png"
+filename = "slideshow_frame.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1408dccaaaac27395c49e220c690ee67bd493067c16fbbee44a1668d2af179eb.bin"
+hash-format = "sha256"
+hash = "1408dccaaaac27395c49e220c690ee67bd493067c16fbbee44a1668d2af179eb"

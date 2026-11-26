@@ -1,0 +1,8 @@
+name = "yacl.json5"
+filename = "yacl.json5"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e.bin"
+hash-format = "sha256"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"

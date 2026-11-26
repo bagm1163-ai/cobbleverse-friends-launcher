@@ -1,0 +1,8 @@
+name = "WhirlIsland.png"
+filename = "WhirlIsland.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/33dc6754230b09ea4148488d00cf5320b0ea39382bfa143b94064077bc606807.bin"
+hash-format = "sha256"
+hash = "33dc6754230b09ea4148488d00cf5320b0ea39382bfa143b94064077bc606807"

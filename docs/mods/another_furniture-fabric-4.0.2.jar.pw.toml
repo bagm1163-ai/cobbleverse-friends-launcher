@@ -1,0 +1,8 @@
+name = "another_furniture-fabric-4.0.2.jar"
+filename = "another_furniture-fabric-4.0.2.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/3f0e6c276dde5cd6390e9c14bc4c283e4043f25d812c1f5ecc36b7b2f61642b5.bin"
+hash-format = "sha256"
+hash = "3f0e6c276dde5cd6390e9c14bc4c283e4043f25d812c1f5ecc36b7b2f61642b5"

@@ -1,0 +1,8 @@
+name = "ChampionCamilla.png"
+filename = "ChampionCamilla.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/29619a18ca40b107f181d3fb208e85da77a46980d2404de0aed6dc1f76dcdd9a.bin"
+hash-format = "sha256"
+hash = "29619a18ca40b107f181d3fb208e85da77a46980d2404de0aed6dc1f76dcdd9a"

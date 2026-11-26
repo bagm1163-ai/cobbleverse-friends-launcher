@@ -1,0 +1,8 @@
+name = "cobbleverse-shiftf-offhand-guard-1.0.0.jar"
+filename = "cobbleverse-shiftf-offhand-guard-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/9e040283abb068fcb22be9a5a2fa8bf9170d948949a4aad38c7da03d2994be07.bin"
+hash-format = "sha256"
+hash = "9e040283abb068fcb22be9a5a2fa8bf9170d948949a4aad38c7da03d2994be07"

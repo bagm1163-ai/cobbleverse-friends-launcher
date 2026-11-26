@@ -1,0 +1,8 @@
+name = "toms_storage.json"
+filename = "toms_storage.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/a92e31ec52f667ea5b552323913afca27db7b37262935798fc83a5d9a2765555.bin"
+hash-format = "sha256"
+hash = "a92e31ec52f667ea5b552323913afca27db7b37262935798fc83a5d9a2765555"

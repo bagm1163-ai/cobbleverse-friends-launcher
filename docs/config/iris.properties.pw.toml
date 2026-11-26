@@ -1,0 +1,8 @@
+name = "iris.properties"
+filename = "iris.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/cde89a79f69d7bd1a42a9042b41eaa7c30920c9ded8cabb34adf4eb334d27df8.bin"
+hash-format = "sha256"
+hash = "cde89a79f69d7bd1a42a9042b41eaa7c30920c9ded8cabb34adf4eb334d27df8"

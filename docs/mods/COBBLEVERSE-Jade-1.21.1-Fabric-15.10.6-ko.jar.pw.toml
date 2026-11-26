@@ -1,0 +1,8 @@
+name = "COBBLEVERSE-Jade-1.21.1-Fabric-15.10.6-ko.jar"
+filename = "COBBLEVERSE-Jade-1.21.1-Fabric-15.10.6-ko.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/dd86c31815a0adcd1ef62d2b8ab8792cc4234a32a59462476165fb0a9878a61b.bin"
+hash-format = "sha256"
+hash = "dd86c31815a0adcd1ef62d2b8ab8792cc4234a32a59462476165fb0a9878a61b"

@@ -1,0 +1,8 @@
+name = "musicnotification.json"
+filename = "musicnotification.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/1350c703373661ffa8f7853f311100c5b5554e2770e043f3bd86528eb2bee1b5.bin"
+hash-format = "sha256"
+hash = "1350c703373661ffa8f7853f311100c5b5554e2770e043f3bd86528eb2bee1b5"

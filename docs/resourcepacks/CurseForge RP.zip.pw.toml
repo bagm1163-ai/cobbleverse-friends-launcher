@@ -1,0 +1,8 @@
+name = "CurseForge RP.zip"
+filename = "CurseForge RP.zip"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/620f1441af282a9043bc0d062a90662d7e87e28900e8e79212ef90ac751d4dea.bin"
+hash-format = "sha256"
+hash = "620f1441af282a9043bc0d062a90662d7e87e28900e8e79212ef90ac751d4dea"

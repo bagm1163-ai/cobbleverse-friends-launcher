@@ -1,0 +1,8 @@
+name = "lithium.properties"
+filename = "lithium.properties"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be.bin"
+hash-format = "sha256"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"

@@ -1,0 +1,8 @@
+name = "background.png"
+filename = "background.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bdc10be005c7882d1f7d92be997ebfd4cf0a60262a777b5e21bd652c60c17c4f.bin"
+hash-format = "sha256"
+hash = "bdc10be005c7882d1f7d92be997ebfd4cf0a60262a777b5e21bd652c60c17c4f"

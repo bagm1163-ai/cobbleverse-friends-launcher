@@ -1,0 +1,8 @@
+name = "DistortionWorld.png"
+filename = "DistortionWorld.png"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/d0e677c8960800f918e4ab8b3beda08f909f882b4ea29a0bbff9d78e85ebb4e0.bin"
+hash-format = "sha256"
+hash = "d0e677c8960800f918e4ab8b3beda08f909f882b4ea29a0bbff9d78e85ebb4e0"

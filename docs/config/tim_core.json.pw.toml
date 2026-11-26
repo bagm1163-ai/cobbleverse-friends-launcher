@@ -1,0 +1,8 @@
+name = "tim_core.json"
+filename = "tim_core.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/40004441a30200e1666be6d4097b3376e6abd5986890d4f4f741acac16c28975.bin"
+hash-format = "sha256"
+hash = "40004441a30200e1666be6d4097b3376e6abd5986890d4f4f741acac16c28975"

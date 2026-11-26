@@ -1,0 +1,8 @@
+name = "pingwheel.json"
+filename = "pingwheel.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea.bin"
+hash-format = "sha256"
+hash = "6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea"

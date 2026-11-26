@@ -1,0 +1,8 @@
+name = "capture_xp.json"
+filename = "capture_xp.json"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/e20d700e07c8e30bc262f052aa485fb5c0e60f38bc153907d7ddd4c22e84ab42.bin"
+hash-format = "sha256"
+hash = "e20d700e07c8e30bc262f052aa485fb5c0e60f38bc153907d7ddd4c22e84ab42"
