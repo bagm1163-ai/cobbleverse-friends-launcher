@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "stable",
   "server_jar": "fabric-server-mc.1.21.1-loader.0.18.4-launcher.1.1.2.jar",
-  "version": "00f48161d03c0603",
+  "version": "b55aaa0af553f5b9",
   "published_at": "2026-11-25T18:52:06.306349+00:00",
   "managed_files": [
     {
@@ -4494,6 +4494,12 @@
       "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/74833da74dbf2fe497ca4a8b0e96fe541b622048e5f7cf89dc38b98ebfffee44.bin"
     },
     {
+      "path": "mods/cobbleverse-shutdown-scheduler-1.0.0.jar",
+      "sha256": "66e40c24881878fafb4efdbaaf135bd98ebc0476f24097b634348b7dd4864cad",
+      "size": 12288,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-shutdown-scheduler/66e40c24881878fafb4efdbaaf135bd98ebc0476f24097b634348b7dd4864cad.bin"
+    },
+    {
       "path": "mods/cobbleverse-training-cap-exemption-0.1.0.jar",
       "sha256": "d7f8c3ff08fd571c0ce0dd3edba44fb19f184fe65e6ed94452d795812cacdd07",
       "size": 8565,
@@ -5226,5 +5232,5 @@
       "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/81f14a0ffa380f28b2cbd94b0be7ed78fe113803b93db4faad55241cb81b22c0.bin"
     }
   ],
-  "generated_utc": "2026-11-26T17:47:59.353008+00:00"
+  "generated_utc": "2026-11-26T18:01:51.508609+00:00"
 }
