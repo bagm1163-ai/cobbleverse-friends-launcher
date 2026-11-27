@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "hot-shops",
-  "version": "7dce29836ba27b14",
-  "generated_utc": "2026-11-26T20:15:32.878081+00:00",
+  "version": "9c00ed726b037f05",
+  "generated_utc": "2026-11-27T07:56:36.841211+00:00",
   "reload_command": "shops reload",
   "files": [
     {
@@ -787,9 +787,9 @@
     },
     {
       "path": "shops/cvshop_relic.json",
-      "size": 1545,
-      "sha256": "afe08de660947639e4acf6671d5111c2c10e69ff4756989f202afffc06a9498b",
-      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/afe08de660947639e4acf6671d5111c2c10e69ff4756989f202afffc06a9498b.bin"
+      "sha256": "fa5468540c3d72435733f6193bdc61fba8ede7174a0484f3f3714d055a84ce66",
+      "size": 2212,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-relic-sellall/fa5468540c3d72435733f6193bdc61fba8ede7174a0484f3f3714d055a84ce66.bin"
     },
     {
       "path": "shops/cvshop_rods.json",
