@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "stable",
   "server_jar": "fabric-server-mc.1.21.1-loader.0.18.4-launcher.1.1.2.jar",
-  "version": "c0078564e1eb8e0e",
+  "version": "903d1ac1cc164f41",
   "published_at": "2026-11-25T18:52:06.306349+00:00",
   "managed_files": [
     {
@@ -4530,6 +4530,12 @@
       "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/bffe36dc9426d1d06da22d91182592e529ebd21cc0ef7a1309d71e3eb7d9e6e3.bin"
     },
     {
+      "path": "mods/cobbleverse-packmove-1.0.0.jar",
+      "sha256": "3245cc9f2df68ef64a5a2ea369013c5a03a0a1193cb0485453d5206680860bb4",
+      "size": 17619,
+      "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-packmove/3245cc9f2df68ef64a5a2ea369013c5a03a0a1193cb0485453d5206680860bb4.bin"
+    },
+    {
       "path": "mods/cobbleverse-personal-spawn-control-1.7.0.jar",
       "sha256": "82694953e7d30d8358eb9fb93eb07b37fb04e65aa9d98da40742a3cc6c9434e4",
       "size": 24426,
@@ -5316,5 +5322,5 @@
       "url": "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-blobstore-v1/81f14a0ffa380f28b2cbd94b0be7ed78fe113803b93db4faad55241cb81b22c0.bin"
     }
   ],
-  "generated_utc": "2026-11-27T07:56:36.841211+00:00"
+  "generated_utc": "2026-11-27T09:27:53.376918+00:00"
 }

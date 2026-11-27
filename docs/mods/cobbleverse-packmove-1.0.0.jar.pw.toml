@@ -1,0 +1,8 @@
+name = "cobbleverse-packmove-1.0.0.jar"
+filename = "cobbleverse-packmove-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bagm1163-ai/cobbleverse-friends-launcher/releases/download/cv-delta-20261127-packmove/3245cc9f2df68ef64a5a2ea369013c5a03a0a1193cb0485453d5206680860bb4.bin"
+hash-format = "sha256"
+hash = "3245cc9f2df68ef64a5a2ea369013c5a03a0a1193cb0485453d5206680860bb4"

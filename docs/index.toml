@@ -2145,3 +2145,7 @@ file = "shaderpacks/ComplementaryUnbound_r5.8.1.zip.pw.toml"
 hash = "581f7dc4bd2fe8959c2088494d32df08075d260942c0bf77cc98a96f36bb6d80"
 metafile = true
 
+[[files]]
+file = "mods/cobbleverse-packmove-1.0.0.jar.pw.toml"
+hash = "cae2e25556e162ea36c25ec833cfb0be570e8356b3eaa41d30cf3754e6dc51ed"
+metafile = true
